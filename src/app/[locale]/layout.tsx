@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { NextIntlClientProvider } from 'next-intl'
-import { getMessages, getTranslations } from 'next-intl/server'
+import { getMessages } from 'next-intl/server'
 import { notFound } from 'next/navigation'
 import { routing, type Locale } from '@/i18n/routing'
 import { buildLanguageAlternates } from '@/lib/i18n-utils'
@@ -37,14 +37,12 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://www.lucidblocks.wiki";
-
-  // 获取 SEO 翻译
-  const t = await getTranslations("seo.home");
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.moneyheistseason6.wiki";
 
   return {
-    title: t("title"),
-    description: t("description"),
+    title: "Money Heist Season 6 Wiki - Release, Cast & Trailer",
+    description:
+      "Follow Money Heist Season 6 news, Netflix status, release date updates, cast rumors, trailer checks, plot theories, spinoffs and where to watch.",
     robots: {
       index: true,
       follow: true,
@@ -60,24 +58,26 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: "website",
       locale: locale,
       url: locale === "en" ? siteUrl : `${siteUrl}/${locale}`,
-      siteName: "Lucid Blocks Wiki",
-      title: t("ogTitle"),
-      description: t("ogDescription"),
+      siteName: "Money Heist Season 6 Wiki",
+      title: "Money Heist Season 6 Wiki - Release, Cast & Trailer",
+      description:
+        "Follow Money Heist Season 6 news, Netflix status, release date updates, cast rumors, trailer checks, plot theories, spinoffs and where to watch.",
       images: [
         {
           url: `${siteUrl}/images/hero.webp`,
           width: 1920,
           height: 1080,
-          alt: "Lucid Blocks - Surreal Voxel Sandbox",
+          alt: "Money Heist Season 6 Wiki Hero Image",
         },
       ],
     },
     twitter: {
       card: "summary_large_image",
-      title: t("twitterTitle"),
-      description: t("twitterDescription"),
+      title: "Money Heist Season 6 Wiki - Release, Cast & Trailer",
+      description:
+        "Track official updates for Money Heist Season 6, including release date, trailer checks, cast news, and where to watch.",
       images: [`${siteUrl}/images/hero.webp`],
-      creator: "@lucidblocks",
+      creator: "@lacasadepapel",
     },
     icons: {
       icon: [

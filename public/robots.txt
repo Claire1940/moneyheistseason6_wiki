@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.moneyheistseason6.wiki/sitemap.xml

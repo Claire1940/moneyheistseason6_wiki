@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Spanish Heist Thriller Updates",
+    "title": "Money Heist Season 6 Wiki",
+    "description": "Track the latest official Netflix status for Money Heist Season 6, including release date updates, trailer checks, cast news, plot theories, Berlin spinoff links, and where to watch.",
+    "getFreeCodesCTA": "Latest Updates",
+    "playOnSteamCTA": "Watch on Netflix",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "Not Confirmed",
+        "label": "Season 6 Status"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "5 Parts",
+        "label": "Original Series"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "May 15, 2026",
+        "label": "Next Universe Release"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "Netflix",
+        "label": "Streaming Platform"
       }
     }
   },
@@ -785,27 +785,27 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready for Money Heist Season 6 Updates?",
+    "description": "Follow official Netflix updates, trailers, and cast news for Money Heist Season 6 and the Berlin universe.",
+    "joinCommunity": "Join Reddit Community",
+    "joinGame": "Watch on Netflix"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Money Heist Season 6 Wiki",
+    "description": "Your fan resource hub for Money Heist Season 6 status, release tracking, cast updates, and official trailer coverage.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
+    "discord": "Instagram",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "steamCommunity": "Reddit",
+    "steamStore": "Watch on Netflix",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
-    "disclaimer": "Unofficial fan-made resource website."
+    "copyright": "© 2026 Money Heist Season 6 Wiki. Not affiliated with Netflix or Vancouver Media.",
+    "disclaimer": "Unofficial fan-made resource website covering Money Heist universe updates."
   },
   "pages": {
     "guides": {
