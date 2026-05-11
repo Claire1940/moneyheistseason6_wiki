@@ -1,12 +1,16 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Money Heist Season 6 Wiki - Release Date, Cast & Trailer",
+  "short_name": "Money Heist S6",
+  "description": "Track official Netflix status for Money Heist Season 6, including release date updates, cast news, trailer checks, and Berlin universe links.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["entertainment", "news"],
+  "theme_color": "#e50914",
+  "background_color": "#0b0b0d",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
