@@ -1,932 +1,949 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricação, Biomas e Conquistas",
-      "description": "A Wiki de Lucid Blocks abrange fabricação, biomas, criaturas, itens, conquistas, finais e dicas de sobrevivência para a aventura sandbox de voxel surreal no Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricação, biomas, conquistas, sobrevivência, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricação, Biomas e Conquistas",
-      "ogDescription": "A Wiki de Lucid Blocks abrange fabricação, biomas, criaturas, itens, conquistas, finais e dicas de sobrevivência para a aventura sandbox de voxel surreal no Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricação, Biomas e Conquistas",
-      "twitterDescription": "A Wiki de Lucid Blocks abrange fabricação, biomas, criaturas, itens, conquistas e dicas de sobrevivência para o sandbox de voxel surreal no Steam."
+      "title": "Money Heist Season 6 Wiki - Data de Lançamento, Trailer e Elenco",
+      "description": "Money Heist Season 6 Wiki acompanha atualizações de status da Netflix, cobertura de trailers, detalhes do elenco, análise do enredo, episódios, ordem para assistir, spin-offs e opções de streaming.",
+      "keywords": "Money Heist Season 6, data de lançamento, trailer, elenco, enredo, episódios, Berlin, Netflix",
+      "ogTitle": "Money Heist Season 6 Wiki - Data de Lançamento, Trailer e Elenco",
+      "ogDescription": "Money Heist Season 6 Wiki acompanha atualizações de status da Netflix, cobertura de trailers, detalhes do elenco, análise do enredo, episódios, ordem para assistir, spin-offs e opções de streaming.",
+      "twitterTitle": "Money Heist Season 6 Wiki - Data de Lançamento, Trailer e Elenco",
+      "twitterDescription": "Siga o status de Money Heist Season 6, sinais de trailer, atualizações de elenco e onde assistir na Netflix."
     }
   },
   "nav": {
-    "release": "Release",
-    "confirmed": "Confirmed",
+    "release": "Lançamento",
+    "confirmed": "Confirmado",
     "trailer": "Trailer",
-    "news": "News",
-    "episodes": "Episodes",
-    "cast": "Cast"
+    "news": "Notícias",
+    "episodes": "Episódios",
+    "cast": "Elenco"
   },
   "common": {
     "home": "Início",
     "more": "Mais",
-    "playNow": "Jogue no Steam",
-    "switchLanguage": "Alterar Idioma",
-    "switchTheme": "Alterar Tema",
+    "playNow": "Jogar no Steam",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
     "lightMode": "Modo Claro",
     "darkMode": "Modo Escuro",
     "notFound": "Página Não Encontrada",
     "notFoundDescription": "A página que você está procurando não existe.",
-    "backToHome": "Voltar ao Início",
+    "backToHome": "Voltar para o Início",
     "relatedArticles": "Artigos Relacionados",
-    "readMore": "Leia Mais",
+    "readMore": "Ler Mais",
     "articlesComingSoon": "Artigos em breve"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de Sobrevivência Voxel",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore biomas oníricos, combine itens com Apotheosis, construa livremente e sobreviva a criaturas estranhas neste sandbox surreal de mundo aberto no Steam.",
-    "getFreeCodesCTA": "Explore o Guia de Criação",
-    "playOnSteamCTA": "Jogue no Steam",
+    "badge": "Atualizações do Suspense de Assalto Espanhol",
+    "title": "Money Heist Season 6 Wiki",
+    "description": "Acompanhe o status oficial mais recente da Netflix para Money Heist Season 6, incluindo atualizações de data de lançamento, verificação de trailers, notícias do elenco, teorias do enredo, links do spin-off Berlin e onde assistir.",
+    "getFreeCodesCTA": "Últimas Atualizações",
+    "playOnSteamCTA": "Assistir na Netflix",
     "stats": {
       "stat1": {
-        "value": "1.325",
-        "label": "Jogadores Online"
+        "value": "Não Confirmado",
+        "label": "Status da Temporada 6"
       },
       "stat2": {
-        "value": "1.986",
-        "label": "Pico de CCU"
+        "value": "5 Partes",
+        "label": "Série Original"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Avaliações Positivas"
+        "value": "15 de maio de 2026",
+        "label": "Próximo Lançamento do Universo"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Data de Lançamento"
+        "value": "Netflix",
+        "label": "Plataforma de Streaming"
       }
     }
   },
   "gameFeature": {
-    "title": "Jogabilidade de Lucid Blocks",
-    "description": "Explore biomas surreais, funda itens com Apotheosis e sobreviva a criaturas estranhas neste sandbox de voxel onírico no Steam."
+    "title": "Universo de Jogabilidade de Money Heist Season 6",
+    "description": "Explore a linha do tempo de Money Heist em toda a série original, Berlin e lançamentos relacionados, enquanto acompanha as atualizações nas buscas por Money Heist Season 6."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Recursos",
-    "subtitle": "Tudo o que você precisa para explorar, criar e sobreviver em Lucid Blocks",
+    "title": "Money Heist Season 6",
+    "titleHighlight": "Navegação do Módulo",
+    "subtitle": "Pule para cada seção do guia de Money Heist Season 6",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "Guia para Iniciantes",
-        "description": "Primeiros passos, exploração e progressão inicial"
+        "icon": "CalendarClock",
+        "title": "Money Heist Season 6 Data de Lançamento",
+        "description": "Status oficial, datas importantes e contexto atual da linha do tempo."
       },
       {
-        "icon": "Sparkles",
-        "title": "Criação de Apotheosis",
-        "description": "Sistema de fusão livre e receitas iniciais"
+        "icon": "Clapperboard",
+        "title": "Money Heist Season 6 Trailer",
+        "description": "Trailers oficiais, teasers e vídeos de continuação."
       },
       {
-        "icon": "Hammer",
-        "title": "Ferramentas e Armas",
-        "description": "Frost Pick, Azrael, __PROTECTED_6a765cb2__ e mais"
+        "icon": "Users",
+        "title": "Money Heist Season 6 Elenco",
+        "description": "Status do elenco principal e membros confirmados do elenco de spin-offs."
       },
       {
-        "icon": "Package",
-        "title": "Armazenamento e Inventário",
-        "description": "Cache Cubes, Armários e armazenamento de Qualia"
+        "icon": "ScrollText",
+        "title": "Money Heist Season 6 Enredo",
+        "description": "O que está confirmado e o que continua sendo especulação dos fãs."
       },
       {
-        "icon": "Home",
-        "title": "Qualia e Construção de Base",
-        "description": "Qualia Pessoal e configuração da base principal"
+        "icon": "ListOrdered",
+        "title": "Money Heist Season 6 Episódios",
+        "description": "Estrutura dos episódios e o que existe em comparação com listas de rumores."
       },
       {
-        "icon": "Eye",
-        "title": "Regiões do Mundo",
-        "description": "Fog Meadow, Essence Morass e mais"
+        "icon": "Route",
+        "title": "Money Heist Season 6 Ordem para Assistir",
+        "description": "Melhor sequência para assistir à franquia para novos e antigos espectadores."
       },
       {
-        "icon": "AlertTriangle",
-        "title": "Criaturas e Inimigos",
-        "description": "Manikins, aranhas e como sobreviver"
+        "icon": "Film",
+        "title": "Money Heist Season 6 Spin-Offs",
+        "description": "Berlin, Coreia e outras expansões do universo."
       },
       {
-        "icon": "ArrowRight",
-        "title": "Equipamento de Mobilidade",
-        "description": "__PROTECTED_6a765cb2__, Glider Glove, __PROTECTED_163b9bec__"
+        "icon": "Tv",
+        "title": "Money Heist Season 6 Onde Assistir",
+        "description": "Destinos oficiais de streaming e verificações de região."
       },
       {
-        "icon": "TrendingUp",
-        "title": "Cultivo e Crescimento",
-        "description": "Progressão de sementes e coleta de materiais"
+        "icon": "ShieldCheck",
+        "title": "Money Heist Season 6 Verificação de Fatos",
+        "description": "Como verificar atualizações e evitar anúncios falsos."
       },
       {
-        "icon": "Star",
-        "title": "Melhores Desbloqueios Iniciais",
-        "description": "Melhorias prioritárias para a primeira hora"
+        "icon": "Swords",
+        "title": "Money Heist Season 6 Dinâmica da Equipe",
+        "description": "Alianças de personagens e motivadores de conflito após a Parte 5."
       },
       {
-        "icon": "ClipboardCheck",
-        "title": "Rastreador de Conquistas",
-        "description": "Todas as 19 conquistas e condições de Steam"
+        "icon": "MapPinned",
+        "title": "Money Heist Season 6 Locais de Assalto",
+        "description": "Referências de cenários da Casa da Moeda e Banco da Espanha."
       },
       {
-        "icon": "MessageCircle",
-        "title": "FAQ Singleplayer",
-        "description": "Dúvidas sobre plataforma, preço, cooperativo e idioma"
+        "icon": "MessageSquare",
+        "title": "Money Heist Season 6 FAQ de Personagens",
+        "description": "Respostas rápidas sobre os personagens favoritos dos fãs."
       },
       {
-        "icon": "Gamepad2",
-        "title": "Steam Deck e Controle",
-        "description": "Configuração do Proton 9.0.4 e dicas de controle"
+        "icon": "MonitorPlay",
+        "title": "Money Heist Season 6 Guia de Plataforma",
+        "description": "Dispositivos, planos e expectativas de reprodução."
       },
       {
-        "icon": "Settings",
-        "title": "Configurações e Acessibilidade",
-        "description": "Ocultar mãos, __PROTECTED_38625270__ e opções de exibição"
+        "icon": "Settings2",
+        "title": "Money Heist Season 6 Configurações de Visualização",
+        "description": "Configuração de idioma e legendas para a melhor visualização."
       },
       {
-        "icon": "Clock",
-        "title": "Atualizações e Notas de Patch",
-        "description": "Correções recentes e notas do roadmap"
+        "icon": "History",
+        "title": "Money Heist Season 6 Linha do Tempo de Atualizações",
+        "description": "Cronologia das principais notícias e lançamentos da franquia."
       },
       {
-        "icon": "Shield",
-        "title": "Correção de Travamentos",
-        "description": "Verificação de __PROTECTED_38625270__, caminho dos logs e relato de bugs"
+        "icon": "LifeBuoy",
+        "title": "Money Heist Season 6 Ajuda de Pesquisa",
+        "description": "Solucionando confusões comuns sobre a Temporada 6."
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Guia para Iniciantes de Lucid Blocks",
+      "title": "Data de Lançamento de Money Heist Season 6",
       "displayType": "steps",
-      "intro": "Comece aprendendo como a exploração, a fusão e a progressão se conectam. Lucid Blocks recompensa a experimentação, portanto, o progresso inicial vem da coleta de materiais incomuns, do teste de combinações e do desbloqueio de sua Qualia pessoal.",
+      "intro": "Money Heist Season 6 não está listada como uma nova temporada oficial na Netflix. A história original termina com a Parte 5, enquanto a atividade de continuação oficial atual está centrada em projetos de Berlin.",
       "steps": [
         {
-          "title": "Explore Antes de se Comprometer",
-          "description": "Caminhe para fora, mine blocos comuns e guarde quaisquer itens estranhos que encontrar. O progresso inicial foca menos em missões fixas e mais em descobrir no que os materiais podem se tornar."
+          "title": "Status Oficial Atual",
+          "description": "Não há uma data de lançamento independente para Money Heist Season 6 listada na Netflix."
         },
         {
-          "title": "Desbloqueie sua Qualia Pessoal Cedo",
-          "description": "Sua Qualia pessoal é um dos marcos iniciais mais importantes. Ela oferece um lugar confiável para se reagrupar e construir ao redor."
+          "title": "Ponto Final da História Original",
+          "description": "A Parte 5 encerra o arco narrativo principal da Casa da Moeda e do Banco da Espanha."
         },
         {
-          "title": "Use Ósmio para um Progresso Inicial Rápido",
-          "description": "O Ósmio é um dos materiais iniciais mais úteis. Uma rota inicial popular é combinar Ósmio com gravetos para criar uma Picareta de Gelo para mineração rápida."
+          "title": "Caminho de Continuação Confirmado",
+          "description": "A continuação da franquia atualmente segue através de produções focadas em Berlin."
         },
         {
-          "title": "Registre Boas Fusões",
-          "description": "Mantenha um registro das combinações bem-sucedidas em seu diário. Lucid Blocks possui muitos caminhos de fusão possíveis, então anotar resultados úteis economiza muito tempo."
+          "title": "Próximo Marco com Data",
+          "description": "15 de maio de 2026 está vinculado a um lançamento do universo de Berlin, não a uma Temporada 6 anunciada."
         }
       ],
       "quickTips": [
-        "Apotheosis não requer uma lista de receitas fixa.",
-        "A geração de mundo infinita significa que mover-se para lugares mais altos ou mais profundos pode revelar materiais completamente diferentes.",
-        "Ferramentas de movimento e equipamentos utilitários tornam-se um grande reforço na qualidade de vida assim que você começa a desbloqueá-los.",
-        "Perder-se no início é normal, mas ferramentas úteis, armazenamento e opções de movimento crescem rapidamente assim que suas primeiras boas fusões começam a funcionar."
+        "Verifique a página do título na Netflix primeiro quando surgirem rumores de novas datas.",
+        "Trate clipes de redes sociais como não confirmados até que correspondam às listagens oficiais.",
+        "Separe as alegações de sequências com o elenco original das atualizações da prequela de Berlin.",
+        "Use este módulo como uma referência de verificação rápida antes de compartilhar notícias."
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Criação de Apotheosis em Lucid Blocks",
+      "title": "Trailer de Money Heist Season 6",
       "displayType": "cards",
-      "intro": "Apotheosis é o sistema de fusão irrestrito do jogo. Em vez de memorizar um livro de receitas tradicional, você combina materiais, observa o resultado e constrói seu próprio conhecimento de criação ao longo do tempo.",
+      "intro": "Nenhum trailer oficial rotulado como Money Heist Season 6 foi publicado até o momento. A maioria dos vídeos em circulação são trailers do final da Parte 5, promoção de Berlin ou anúncios do universo.",
       "cards": [
         {
-          "name": "Fusão de Forma Livre",
-          "description": "Apotheosis permite fundir diferentes itens sem a necessidade de seguir uma lista de receitas fixa."
+          "name": "Trailer da Parte 5 Volume 2",
+          "description": "Trailer oficial para a fase final da série original."
         },
         {
-          "name": "Múltiplos Resultados Úteis",
-          "description": "Materiais diferentes costumam levar a certos resultados. Descobertas da comunidade mostram que insumos semelhantes ainda podem resultar em ferramentas práticas, armazenamento ou melhorias de combate."
+          "name": "Teaser da Parte 5 Volume 2",
+          "description": "Teaser oficial de formato curto vinculado à mesma campanha de encerramento."
         },
         {
-          "name": "Criação Focada no Diário",
-          "description": "A melhor maneira de aprender Apotheosis é rastrear suas combinações bem-sucedidas. Seu diário rapidamente se torna sua própria referência de criação."
+          "name": "Clipe de Continuação do Universo",
+          "description": "Mensagens oficiais de continuação frequentemente interpretadas erroneamente como filmagens da Temporada 6."
         },
         {
-          "name": "Fusões Iniciais Testadas pela Comunidade",
-          "description": "Exemplos iniciais populares incluem Ósmio mais Graveto para uma Picareta de Gelo, Graveto mais Apêndice de Tungstênio para Azrael, e Azrael mais Magnetita para a Rapieira de Gavinhas."
+          "name": "Teasers e Trailers de Berlin",
+          "description": "Vídeos confirmados do spin-off conectados às linhas do tempo de Berlin."
         }
       ],
       "milestones": [
-        "Fundir um item",
-        "Fundir um verme",
-        "Fundir um artefato divino"
+        "Trailer final identificado",
+        "Teaser verificado",
+        "Clipes de Berlin separados",
+        "Nenhum trailer direto da Temporada 6 listado"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Ferramentas e Armas de Lucid Blocks",
+      "title": "Elenco de Money Heist Season 6",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks mistura equipamentos utilitários oficiais com armas iniciais descobertas pela comunidade. A melhor configuração geralmente é uma mistura de mineração rápida, travessia segura e uma opção de combate confiável.",
+      "intro": "Money Heist Season 6 não possui uma lista de elenco oficial, portanto, as buscas focam nos membros da equipe original e na continuidade do elenco confirmada do spin-off de Berlin.",
       "items": [
         {
-          "name": "Picareta de Gelo",
-          "type": "Ferramenta de Mineração",
-          "description": "Uma picareta inicial rápida e acessível feita de Ósmio e Graveto. Os jogadores a utilizam para acelerar a coleta inicial de materiais."
+          "name": "The Professor / Sergio Marquina",
+          "type": "Elenco Principal Original",
+          "description": "O estrategista central e o principal nome nas buscas por continuação."
         },
         {
-          "name": "Azrael",
-          "type": "Arma Inicial",
-          "description": "Uma rota prática de arma inicial criada a partir de Graveto e Apêndice de Tungstênio."
+          "name": "Tokyo / Silene Oliveira",
+          "type": "Personagem Legado",
+          "description": "Papel central de narradora que ainda impulsiona discussões sobre sequências."
         },
         {
-          "name": "Rapieira de Gavinhas",
-          "type": "Arma Melhorada",
-          "description": "Uma sequência mais forte feita ao combinar Azrael com Magnetita. É um dos caminhos de combate inicial-médio mais úteis compartilhados pelos jogadores."
+          "name": "Lisbon / Raquel Murillo",
+          "type": "Elenco Principal Original",
+          "description": "Personagem-chave de ligação entre as autoridades e a equipe."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Ferramenta de Mobilidade",
-          "description": "Um item de travessia oficial que melhora muito o movimento e a exploração vertical."
+          "name": "Berlin / Andres de Fonollosa",
+          "type": "Protagonista Original e do Spin-off",
+          "description": "Figura principal do caminho de expansão ativa da franquia."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Ferramenta de Mobilidade",
-          "description": "Um item de movimento oficial que ajuda a percorrer espaços de forma mais segura e eficiente."
+          "name": "Rio / Anibal Cortes",
+          "type": "Elenco Principal Original",
+          "description": "Frequentemente mencionado em cenários de retorno pós-final."
         },
         {
-          "name": "Varinha de Bola",
-          "type": "Arma Utilitária",
-          "description": "Um item utilitário oficial de longo alcance que expande suas opções de combate e quebra-cabeças."
+          "name": "Denver / Daniel Ramos",
+          "type": "Elenco Principal Original",
+          "description": "Membro da equipe de alto reconhecimento nas especulações da Temporada 6."
         },
         {
-          "name": "Equipamento de Mergulho",
-          "type": "Equipamento de Travessia",
-          "description": "Um item utilitário oficial para alcançar áreas que, de outra forma, retardariam a exploração."
+          "name": "Alicia Sierra",
+          "type": "Personagem-Chave do Final da Série",
+          "description": "Seu envolvimento no desfecho a mantém nas especulações de continuação."
         },
         {
-          "name": "Explosivos",
-          "type": "Dano Utilitário",
-          "description": "Oficialmente destacados como parte do conjunto principal de ferramentas e úteis para romper ameaças ou obstáculos."
+          "name": "Rafael de Fonollosa",
+          "type": "Personagem-Chave do Final da Série",
+          "description": "Sua relevância na trama do ouro o mantém central em teorias de fãs."
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Armazenamento e Inventário de Lucid Blocks",
+      "title": "Enredo de Money Heist Season 6",
       "displayType": "solutionCards",
-      "intro": "A pressão no inventário começa cedo em Lucid Blocks, então construir armazenamento deve ser um de seus primeiros objetivos. Várias soluções testadas por jogadores reais já se destacam.",
+      "intro": "As buscas por enredo misturam resultados confirmados do final com teorias de sequências. Este módulo separa os desfechos canônicos documentados de tópicos de especulação de alto interesse.",
       "solutions": [
         {
-          "name": "Cubo de Cache",
-          "role": "Armazenamento Estilo Baú",
-          "description": "Os Cubos de Cache são uma das primeiras respostas práticas de armazenamento e são tratados pelos jogadores como o principal recipiente estilo baú do jogo."
+          "name": "Status Oficial do Enredo",
+          "role": "Confirmado",
+          "description": "Nenhuma sinopse oficial independente para Money Heist Season 6 foi publicada."
         },
         {
-          "name": "Armário",
-          "role": "Armazenamento Simples de Base",
-          "description": "Armários são outra opção de armazenamento confirmada. Uma receita inicial compartilhada usa 1 Madeira Cortada e 1 Corda."
+          "name": "Continuidade do Final",
+          "role": "Estabelecido",
+          "description": "O arco original termina com a Parte 5 e a resolução do Banco da Espanha."
         },
         {
-          "name": "Qualia Pessoal",
-          "role": "Central de Armazenamento de Longo Prazo",
-          "description": "Uma vez desbloqueada, sua Qualia pessoal torna-se um lugar natural para organizar materiais, criar em paz e expandir sua base."
+          "name": "Tópico do Ouro e Rafael",
+          "role": "Alto Interesse de Busca",
+          "description": "Rafael e a entrega do ouro continuam sendo os principais pontos de discussão para uma continuação."
         },
         {
-          "name": "Rastreamento pelo Diário",
-          "role": "Eficiência de Inventário",
-          "description": "Registrar combinações úteis em seu diário reduz o desperdício de materiais e facilita muito o gerenciamento do inventário."
+          "name": "Linha do Tempo de Berlin",
+          "role": "Linha Narrativa Ativa",
+          "description": "As expansões atuais ocorrem na cronologia da prequela liderada por Berlin."
         }
       ],
       "managementTips": [
-        "Priorize uma opção de armazenamento confiável antes de acumular itens raros.",
-        "Construa ao redor de sua Qualia pessoal assim que ela estiver disponível.",
-        "Mantenha materiais de criação, ferramentas de combate e equipamentos de movimento separados para que as melhorias sejam mais fáceis de planejar.",
-        "Use seu diário como parte do gerenciamento de inventário, não apenas para descobertas de criação."
+        "Comece com as listagens oficiais de episódios e títulos antes dos tópicos de teorias.",
+        "Mantenha os enredos de spin-offs separados de alegações de sequências da série original.",
+        "Acompanhe as confirmações do elenco independentemente de edições de fãs e repostagens.",
+        "Verifique novamente após cada ciclo de atualização do Netflix Tudum."
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia e Construção de Base em Lucid Blocks",
+      "title": "Episódios de Money Heist Season 6",
       "displayType": "cards",
-      "intro": "Qualia é um dos marcos de progressão mais importantes em Lucid Blocks. Ela oferece um espaço pessoal para se reagrupar, armazenar materiais e gradualmente transformar o progresso da exploração em uma base real.",
+      "intro": "A Temporada 6 não possui uma lista de episódios independente. Use este guia para mapear a estrutura concluída das Partes 1-5 de Money Heist e os títulos em andamento do universo de Berlin.",
       "cards": [
         {
-          "name": "Qualia Pessoal",
-          "description": "Desbloquear uma Qualia é um marco inicial que oferece um lugar mais confiável para retornar enquanto explora o mundo mais amplo."
+          "name": "Money Heist Season 6",
+          "description": "Nenhum episódio oficial de Money Heist Season 6 está listado. Use as Partes 1-5 para a história principal concluída e, em seguida, continue com os títulos de Berlin para novos conteúdos da franquia."
         },
         {
-          "name": "Construção Focada em Armazenamento",
-          "description": "Muitos jogadores começam a usar sua Qualia como um centro de armazenamento antes de transformá-la em uma base maior com espaço organizado para criação e construção."
+          "name": "Money Heist Parte 1",
+          "description": "13 episódios na Netflix. Inicia o assalto à Casa da Moeda da Espanha e apresenta a equipe principal do The Professor."
         },
         {
-          "name": "Construção Criativa de Lares",
-          "description": "Lucid Blocks suporta construção criativa, e os jogadores já estão usando espaços de Qualia para criar casas e layouts personalizados."
+          "name": "Money Heist Parte 2",
+          "description": "9 episódios na Netflix. Conclui o arco da Casa da Moeda e resolve a primeira grande linha narrativa."
         },
         {
-          "name": "Central de Progressão",
-          "description": "Uma base sólida ajuda a separar saques de exploração, materiais de criação, sementes, ferramentas e equipamentos de mobilidade para que seus próximos upgrades sejam mais fáceis de planejar."
+          "name": "Money Heist Parte 3",
+          "description": "8 episódios. Inicia o arco do Banco da Espanha após a reunião da equipe."
+        },
+        {
+          "name": "Money Heist Parte 4",
+          "description": "8 episódios. Continua o impasse no Banco da Espanha e o conflito com as autoridades."
+        },
+        {
+          "name": "Money Heist Parte 5",
+          "description": "10 episódios em dois volumes. Conclui a história do Banco da Espanha e a série principal."
+        },
+        {
+          "name": "Berlin e as Joias de Paris",
+          "description": "8 episódios. Prequela spin-off seguindo a gangue de Berlin em um assalto a joias em Paris."
+        },
+        {
+          "name": "Berlin e a Dama com Arminho",
+          "description": "8 episódios. Sequência spin-off expandindo a história de Berlin em Sevilha."
+        },
+        {
+          "name": "Money Heist: Coreia - Área de Economia Conjunta",
+          "description": "12 episódios. Remake coreano com continuidade e elenco separados."
         }
       ],
       "highlights": [
-        "Entrar em uma qualia",
-        "Armazenar materiais com segurança",
-        "Expandir da utilidade para a decoração",
-        "Usar o espaço da base para apoiar a criação e o cultivo"
+        "Nenhuma lista de episódios independente de Money Heist Season 6",
+        "A história espanhola principal são as Partes 1-5",
+        "Berlin é o ramo ativo de spin-off",
+        "Coreia é uma linha do tempo de adaptação separada"
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Regiões do Mundo de Lucid Blocks",
+      "title": "Ordem de Visualização de Money Heist Season 6",
       "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza geração de mundo infinita, então os jogadores continuam descobrindo novos ambientes e estruturas. Alguns lugares nomeados já estão aparecendo em conquistas e discussões da comunidade.",
+      "intro": "O caminho de visualização mais limpo é primeiro por lançamento para a série principal, depois documentários e spin-offs. Esta ordem mantém spoilers e revelações de personagens em sequência.",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "Área Notada pela Comunidade",
-          "description": "Fog Meadow já é conhecida entre os jogadores como uma área tensa associada a ameaças ocultas e encontros perigosos."
+          "name": "Passo 1: Money Heist Partes 1-2",
+          "type": "História Principal",
+          "description": "Assista primeiro. Abrange o assalto à Casa da Moeda da Espanha e estabelece a equipe do The Professor."
         },
         {
-          "name": "Linha de Ley Tiamana",
-          "type": "Marco de Descoberta",
-          "description": "A linha de ley tiamana é importante o suficiente para ter seu próprio marco de conquista, tornando-a uma das descobertas de mundo nomeadas mais claras até agora."
+          "name": "Passo 2: Money Heist Partes 3-4",
+          "type": "História Principal",
+          "description": "Assista em seguida. Expande o arco do Banco da Espanha do qual a Parte 5 depende."
         },
         {
-          "name": "Clonaqualia",
-          "type": "Espaço de Construção",
-          "description": "Os jogadores já estão usando Clonaqualia como um lugar para construir casas, armazenar materiais e experimentar layouts mais permanentes."
+          "name": "Passo 3: Money Heist Parte 5",
+          "type": "Final da História Principal",
+          "description": "Assista após as Partes 3-4. Este é o final da história original de Money Heist."
         },
         {
-          "name": "Pântano de Essência",
-          "type": "Área de Cultivo",
-          "description": "O Pântano de Essência está sendo compartilhado pelos jogadores como um local de cultivo útil, especialmente para lutar contra slimes e ganhar experiência."
+          "name": "Passo 4: Money Heist: O Fenômeno",
+          "type": "Documentário",
+          "description": "Opcional após a história principal para contexto de bastidores sobre o impacto global."
+        },
+        {
+          "name": "Passo 5: Money Heist: De Tóquio a Berlin",
+          "type": "Série Documental",
+          "description": "Opcional após a Parte 5. Elenco e criadores refletem sobre o final e o encerramento da franquia."
+        },
+        {
+          "name": "Passo 6: Berlin e as Joias de Paris",
+          "type": "Prequela Spin-off",
+          "description": "Melhor assistido após a série original, embora a linha do tempo seja anterior."
+        },
+        {
+          "name": "Passo 7: Berlin e a Dama com Arminho",
+          "type": "Sequência Spin-off",
+          "description": "Assista após Berlin e as Joias de Paris para continuar o arco de Berlin."
+        },
+        {
+          "name": "Passo 8: Money Heist: Coreia - Área de Economia Conjunta",
+          "type": "Remake Separado",
+          "description": "Opcional. Pode ser assistido a qualquer momento depois que você conhecer a premissa original."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas e Inimigos de Lucid Blocks",
+      "title": "Spin-Offs de Money Heist Season 6",
       "displayType": "creatureCards",
-      "intro": "Lucid Blocks mistura criaturas surreais com perigo real. Descrições oficiais e postagens da comunidade apontam para um mundo cheio de vida estranha, ameaças hostis e alguns encontros marcantes que os jogadores lembram rapidamente.",
+      "intro": "A maioria das buscas por Season 6 aponta para a franquia em geral. Berlin é o principal caminho de continuação, enquanto a versão da Coreia e os documentários atendem a outros objetivos de visualização.",
       "creatures": [
         {
-          "name": "Manequins",
-          "role": "Inimigo Hostil",
-          "description": "Os Manequins são um dos inimigos oficialmente nomeados no mundo e fazem parte do elenco de ameaças surreais do jogo."
+          "name": "Berlin e as Joias de Paris",
+          "role": "Prequela de Spin-off",
+          "description": "Série disponível que acompanha Berlin em Paris em torno de um plano de assalto a joias de uma noite."
         },
         {
-          "name": "Géis Macios",
-          "role": "Inimigo Hostil",
-          "description": "Géis macios são outro tipo de inimigo oficialmente nomeado e ajudam a definir o estilo biológico estranho do jogo."
+          "name": "Berlin e a Dama com Arminho",
+          "role": "Sequência de Spin-off",
+          "description": "Capítulo mais recente de Berlin centrado em uma operação ligada a da Vinci em Sevilha."
         },
         {
-          "name": "Seres de Dimensões Superiores",
-          "role": "Inimigo Hostil",
-          "description": "Esses seres são apresentados como parte da linha de inimigos mais abstrata e perturbadora do mundo."
+          "name": "Money Heist: Coreia - Área de Economia Conjunta",
+          "role": "Remake Coreano",
+          "description": "Caminho de adaptação separado com um cenário da Casa da Moeda da Coreia Unificada e elenco diferente."
         },
         {
-          "name": "Aranhas Colossais",
-          "role": "Grande Ameaça",
-          "description": "As aranhas são um dos inimigos mais temidos imediatamente em discussões da comunidade e são claramente um perigo memorável."
+          "name": "Money Heist: O Fenômeno",
+          "role": "Especial Documentário",
+          "description": "Especial de bastidores sobre como a série se tornou um sucesso global da Netflix."
         },
         {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura Nomeada",
-          "description": "__PROTECTED_26ee183b__ é notável o suficiente para ter sua própria conquista, o que o torna um dos encontros com criaturas nomeadas mais claros do jogo."
+          "name": "Money Heist: De Tóquio a Berlin",
+          "role": "Série Documental",
+          "description": "Documentário complementar focado no elenco, criadores e na fase final de produção."
         },
         {
-          "name": "Vermes Fofos",
-          "role": "Criatura Interagível",
-          "description": "Os vermes não fazem apenas parte da progressão de fusão, eles também podem ser renomeados, ganhando um papel mais pessoal do que os inimigos padrão."
-        },
-        {
-          "name": "Criatura Blasfema",
-          "role": "Ameaça de Elite",
-          "description": "A criatura blasfema está ligada a uma conquista de combate dedicada, marcando-a como um encontro de inimigo significativo."
+          "name": "Atualizações do Universo Money Heist",
+          "role": "Acompanhamento de Notícias Oficiais",
+          "description": "Siga os canais oficiais da Netflix para futuros anúncios da franquia e lançamentos de novos títulos."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Equipamento de Mobilidade de Lucid Blocks",
+      "title": "Onde Assistir Money Heist Season 6",
       "displayType": "itemCards",
-      "intro": "Melhorias de movimento são um dos maiores saltos na qualidade de vida em Lucid Blocks. Depois de desbloquear suas primeiras ferramentas de travessia, a exploração torna-se mais rápida, segura e muito mais recompensadora.",
+      "intro": "A Season 6 não possui uma página de título independente, portanto, o caminho oficial de visualização é a página principal de Money Heist, além das páginas de Berlin, Coreia e documentários na Netflix.",
       "items": [
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Ferramenta de Travessia",
-          "description": "O gancho é um dos marcos de movimento mais claros do jogo e possui sua própria conquista dedicada."
+          "name": "Money Heist",
+          "type": "Série Principal",
+          "description": "Listagem da Netflix com a história original completa em 5 partes."
         },
         {
-          "name": "Luva Planadora",
-          "type": "Mobilidade Aérea",
-          "description": "A luva planadora permite viagens muito mais suaves e é outro marco importante de progressão com sua própria conquista."
+          "name": "Berlin e as Joias de Paris",
+          "type": "Prequela de Spin-off",
+          "description": "Listagem de spin-off da Netflix com 8 episódios focados na linha do tempo anterior de Berlin."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Ferramenta de Travessia",
-          "description": "Os planadores de abelha são oficialmente destacados como parte do kit de ferramentas de movimento do jogo para percorrer espaços de forma mais eficiente."
+          "name": "Berlin e a Dama com Arminho",
+          "type": "Sequência de Spin-off",
+          "description": "Listagem da Netflix para a última parcela de Berlin e continuação do universo."
         },
         {
-          "name": "Varinha de Bola",
-          "type": "Equipamento Utilitário",
-          "description": "As varinhas de bola são uma das ferramentas especiais oficialmente destacadas e expandem a forma como você se move ou interage com o mundo."
+          "name": "Money Heist: Coreia - Área de Economia Conjunta",
+          "type": "Remake Coreano",
+          "description": "Página da Netflix para a linha do tempo de adaptação separada."
         },
         {
-          "name": "Equipamento de Mergulho",
-          "type": "Equipamento de Exploração",
-          "description": "O equipamento de mergulho está oficialmente listado como parte do conjunto utilitário principal para alcançar áreas que seriam mais difíceis de explorar."
+          "name": "Money Heist: O Fenômeno",
+          "type": "Especial Documentário",
+          "description": "Página oficial do título do documentário com contexto de produção e impacto."
         },
         {
-          "name": "Explosivos",
-          "type": "Dano Utilitário",
-          "description": "Os explosivos são oficialmente destacados e vinculados a um marco de conquista, tornando-os parte da progressão utilitária principal do jogo."
+          "name": "Money Heist: De Tóquio a Berlin",
+          "type": "Série Documental",
+          "description": "Página oficial da série documental ligada ao período final da Parte 5."
         }
       ],
       "unlockMilestones": [
-        "Comandar um gancho",
-        "Voar com a luva planadora",
-        "Empunhar uma varinha de projéteis",
-        "Empunhar um explosivo"
+        "Use apenas páginas de títulos oficiais da Netflix",
+        "Verifique a disponibilidade regional antes da reprodução",
+        "Confirme as faixas de idioma e legendas",
+        "Evite listagens falsas independentes da Season 6"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo e Crescimento em Lucid Blocks",
+      "title": "Verificação de Fatos de Money Heist Season 6",
       "displayType": "mixedCards",
-      "intro": "O crescimento faz parte da progressão real em Lucid Blocks. O cultivo não se trata apenas de plantar e colher, mas também de estabelecer rotas de materiais repetíveis que mantêm suas ferramentas, armas e opções de criação fluindo.",
+      "intro": "A verificação de fatos é essencial porque os rumores da Season 6 se espalham rapidamente. Esta lista de verificação ajuda a validar o que é realmente confirmado.",
       "sections": [
         {
-          "name": "Progressão de Sementes",
-          "description": "Plantar e fertilizar sementes é um marco real no jogo, e colher uma noz totalmente crescida faz parte do mesmo caminho de crescimento."
+          "name": "Verificar Listagem Oficial",
+          "description": "Valide as afirmações em relação às páginas de títulos oficiais e entradas da plataforma."
         },
         {
-          "name": "Cultivo de Materiais",
-          "description": "Um ciclo prático de cultivo inicial é criar Cápsulas de Mercúrio, que geram pequenos slimes que soltam Gavinhas e gosma para materiais de criação repetíveis."
+          "name": "Confirmar Origem do Vídeo",
+          "description": "Use uploads de canais oficiais antes de rotular qualquer clipe como Season 6."
         },
         {
-          "name": "Sustentação de Ferramentas",
-          "description": "O cultivo de recursos torna-se muito mais forte quando você consegue coletar consistentemente Ósmio, fragmentos de vidro, plantas e materiais de slime para criações subsequentes."
+          "name": "Separar Notícias de Spin-off",
+          "description": "Anúncios de Berlin são atualizações da franquia, não uma confirmação direta da Season 6."
         },
         {
-          "name": "Rotina da Base",
-          "description": "A melhor configuração de cultivo suporta mais do que apenas comida. Ela deve alimentar seu armazenamento, ferramentas de movimento, melhorias de armas e futuros experimentos de fusão."
+          "name": "Acompanhar Consistência de Datas",
+          "description": "Compare datas repetidas em postagens oficiais antes de compartilhar."
         }
       ],
       "growthMilestones": [
-        "Fertilizar uma semente",
-        "Colher uma noz totalmente crescida",
-        "Criar ciclos de materiais repetíveis",
-        "Transformar o cultivo em progressão de longo prazo"
+        "Listagem verificada",
+        "Fonte do vídeo confirmada",
+        "Contexto de spin-off rotulado",
+        "Cruzamento de datas concluído"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Melhores Desbloqueios Iniciais de Lucid Blocks",
+      "title": "Dinâmica da Equipe de Money Heist Season 6",
       "displayType": "priorityCards",
-      "intro": "Os desbloqueios iniciais mais fortes são aqueles que melhoram a segurança, o armazenamento e o movimento. Em Lucid Blocks, algumas melhorias práticas podem tornar todo o resto do jogo muito mais suave.",
+      "intro": "A dinâmica da equipe continua sendo o ângulo de continuação mais discutido, especialmente os relacionamentos e as tensões de liderança após a Parte 5.",
       "priorities": [
         {
-          "name": "Qualia Pessoal",
+          "name": "The Professor e Lisboa",
           "priority": "Essencial",
-          "description": "Assim que você obtém acesso à sua Qualia pessoal, sua jornada torna-se muito mais estável. Ela atua como um centro confiável para armazenamento, construção e reagrupamento."
+          "description": "Liderança estratégica e confiança permanecem centrais para o interesse narrativo futuro."
         },
         {
-          "name": "Picareta de Gelo",
+          "name": "Rio e Denver",
           "priority": "Muito Alta",
-          "description": "Uma ferramenta de mineração inicial rápida e barata feita de Ósmio e Graveto. É uma das melhorias mais úteis para acelerar a coleta inicial de recursos."
+          "description": "Vínculos emocionais centrais e pontos de pressão de decisão nos arcos da equipe sobrevivente."
         },
         {
-          "name": "Cubo de Cache",
+          "name": "Palermo e Bogotá",
           "priority": "Muito Alta",
-          "description": "A pressão de armazenamento começa cedo, então obter seu primeiro recipiente confiável estilo baú é uma grande melhoria na qualidade de vida."
+          "description": "Papéis operacionais moldam a estabilidade da equipe durante reviravoltas de alto risco."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
+          "name": "Estocolmo e Helsinki",
           "priority": "Alta",
-          "description": "O gancho é um dos marcos de movimento mais claros do jogo e rapidamente torna a exploração mais rápida e segura."
+          "description": "Resiliência pessoal e dinâmica de lealdade influenciam a continuidade pós-assalto."
         },
         {
-          "name": "Luva Planadora",
+          "name": "Posicionamento de Alicia Sierra",
           "priority": "Alta",
-          "description": "A luva planadora adiciona outro grande impulso de mobilidade e torna o movimento de longa distância muito mais eficiente."
+          "description": "Seu alinhamento com o The Professor afeta a direção das teorias de sequência."
         },
         {
-          "name": "Varinha de Projéteis ou Bombas",
+          "name": "Influência de Rafael",
           "priority": "Alta",
-          "description": "Uma ferramenta de longo alcance ou opção explosiva oferece uma resposta mais segura a inimigos perigosos e encontros de estilo desafio."
+          "description": "A influência do fio de ouro mantém seu papel central em cenários de continuação."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Rastreador de Conquistas de Lucid Blocks",
+      "title": "Locais de Assalto de Money Heist Season 6",
       "displayType": "achievementGrid",
-      "intro": "Lucid Blocks possui atualmente 19 conquistas no Steam, e elas se dividem naturalmente em exploração, criação, mobilidade, combate e progressão de cultivo.",
+      "intro": "Referências de localização ajudam os usuários a interpretar o contexto da linha do tempo ao ler rumores sobre a Season 6 e spin-offs.",
       "groups": [
         {
-          "name": "Exploração",
+          "name": "Locais Originais de Alto Risco",
           "achievements": [
             {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entre em uma qualia."
+              "title": "Casa da Moeda da Espanha",
+              "description": "Local de assalto fundamental para a identidade da série."
             },
             {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubra uma linha de ley tiamana."
+              "title": "Banco da Espanha",
+              "description": "Local central final vinculado ao encerramento da Parte 5."
             },
             {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Vença um desafio tiamana."
+              "title": "Rede de Esconderijos",
+              "description": "Pontos logísticos estratégicos usados em todas as operações."
             },
             {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Conquista oculta."
+              "title": "Zonas de Comando Policial",
+              "description": "Pontos de pressão cruciais que moldam os resultados táticos."
             }
           ]
         },
         {
-          "name": "Criação e Invocação",
+          "name": "Configurações da Linha do Tempo de Berlin",
           "achievements": [
             {
-              "title": "Apotheosis α",
-              "description": "Funda um item."
+              "title": "Centros de Operação da Prequela",
+              "description": "Locais vinculados a missões anteriores lideradas por Berlin."
             },
             {
-              "title": "Apotheosis β",
-              "description": "Funda um verme."
+              "title": "Locais de Infiltração de Luxo",
+              "description": "Alvos de alto valor comuns nos arcos de Berlin."
             },
             {
-              "title": "Apotheosis γ",
-              "description": "Funda um artefato divino."
+              "title": "Nós de Trânsito e Fuga",
+              "description": "Pontos de roteamento que definem os planos de execução."
             },
             {
-              "title": "Arcanjo β",
-              "description": "Invoque sua fé."
+              "title": "Áreas de Preparação da Equipe",
+              "description": "Espaços de preparação antes do lançamento das operações."
             }
           ]
         },
         {
-          "name": "Mobilidade e Utilidade",
+          "name": "Espaços de Conflito Narrativo",
           "achievements": [
             {
-              "title": "Virtude α",
-              "description": "Voe com a luva planadora."
+              "title": "Salas de Negociação",
+              "description": "Cenas de decisões críticas com as autoridades."
             },
             {
-              "title": "Virtude β",
-              "description": "Comande um gancho."
+              "title": "Pontos de Controle do Cofre",
+              "description": "Pontos de estrangulamento técnicos durante a progressão do assalto."
             },
             {
-              "title": "Arcanjo α",
-              "description": "Empunhe uma varinha de projéteis."
+              "title": "Zonas de Pressão da Mídia",
+              "description": "Locais de campo de batalha da narrativa pública."
             },
             {
-              "title": "Arcanjo γ",
-              "description": "Empunhe um explosivo."
+              "title": "Corredores de Extração",
+              "description": "Rotas de saída que impulsionam o suspense final."
             }
           ]
         },
         {
-          "name": "Combate e Criaturas",
+          "name": "Contexto de Expansão da Franquia",
           "achievements": [
             {
-              "title": "Massacre de __PROTECTED_26ee183b__",
-              "description": "Derrote bubblebears inocentes."
+              "title": "Locais da Adaptação da Coreia",
+              "description": "Continuidade alternativa com sua própria lógica de localização."
             },
             {
-              "title": "Arcanjo δ",
-              "description": "Elimine uma criatura blasfema."
+              "title": "Cenários de Documentários",
+              "description": "Locais de contexto de produção para cobertura de bastidores."
             },
             {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morra."
+              "title": "Locais de Origem dos Personagens",
+              "description": "Lugares que informam a história de fundo e a motivação pessoal."
             },
             {
-              "title": "Domínio γ",
-              "description": "Renomeie um verme fofo."
+              "title": "Marcadores de Expansão Futura",
+              "description": "Padrões de localização que provavelmente se repetirão em novas histórias do universo."
             }
           ]
         },
         {
-          "name": "Crescimento e Cultivo",
+          "name": "Checklist de Rastreamento de Localização",
           "achievements": [
             {
-              "title": "Domínio α",
-              "description": "Fertilize uma semente."
+              "title": "Mapear o Cânone Primeiro",
+              "description": "Separar o cânone original da geografia da adaptação."
             },
             {
-              "title": "Domínio β",
-              "description": "Colha uma noz totalmente crescida."
+              "title": "Marcar Período da Linha do Tempo",
+              "description": "Rotular se o local pertence à prequela ou ao arco original."
             },
             {
-              "title": "Domínio δ",
-              "description": "Conquista oculta."
+              "title": "Rastrear Função Estratégica",
+              "description": "Capturar se cada local é de preparação, conflito ou fuga."
             }
           ]
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "FAQ de Singleplayer e Plataformas de Lucid Blocks",
+      "title": "FAQ de Personagens de Money Heist Season 6",
       "displayType": "accordion",
-      "intro": "Estas são as principais perguntas sobre plataformas e acesso que os jogadores costumam fazer antes de comprar Lucid Blocks.",
+      "intro": "Respostas rápidas focadas em personagens para as buscas mais comuns de Money Heist Season 6.",
       "faqs": [
         {
-          "question": "Lucid Blocks é singleplayer?",
-          "answer": "Sim. Lucid Blocks é um jogo singleplayer."
+          "question": "The Professor retornará em Money Heist Season 6?",
+          "answer": "Ainda não há confirmação oficial de uma Season 6, mas The Professor continua sendo o personagem principal na demanda por continuação."
         },
         {
-          "question": "Multijogador ou cooperativo estão planejados?",
-          "answer": "Não. O modo multijogador não está planejado para o lançamento nem para atualizações futuras."
+          "question": "Berlin faz parte de Money Heist Season 6?",
+          "answer": "Berlin é um caminho de spin-off no mesmo universo, não uma sexta temporada direta da série original."
         },
         {
-          "question": "Onde posso jogar Lucid Blocks?",
-          "answer": "Ele está disponível atualmente no Steam para Windows."
+          "question": "Tóquio pode aparecer novamente nas teorias de Money Heist Season 6?",
+          "answer": "Tóquio continua central nas conversas dos fãs devido à sua importância narrativa para a série original."
         },
         {
-          "question": "Quanto custa Lucid Blocks?",
-          "answer": "$9,99 no Steam."
+          "question": "Por que Rafael é tão importante nas discussões de Money Heist Season 6?",
+          "answer": "Rafael está ligado ao desfecho do ouro, por isso aparece em muitas teorias de continuação."
         },
         {
-          "question": "Lucid Blocks suporta controles?",
-          "answer": "Sim, mas jogar no controle não é recomendado porque os menus não foram projetados para isso."
+          "question": "Alicia Sierra ainda é importante para futuras histórias?",
+          "answer": "Sim, seu alinhamento no final da série a mantém relevante nas especulações pós-Parte 5."
         },
         {
-          "question": "Lucid Blocks funciona no Steam Deck?",
-          "answer": "Sim. O Proton 9.0 ou 9.0.4 é a configuração comumente recomendada para o Steam Deck."
-        },
-        {
-          "question": "Lucid Blocks funciona no Linux?",
-          "answer": "Sim. Relatos indicam que o Proton 9.0 funciona bem para Linux e Steam Deck."
-        },
-        {
-          "question": "Haverá suporte para Mac ou Android?",
-          "answer": "Eles podem ser suportados no futuro, mas não são plataformas de lançamento atuais."
-        },
-        {
-          "question": "Lucid Blocks possui traduções?",
-          "answer": "Não. Atualmente não há traduções planejadas."
-        },
-        {
-          "question": "Lucid Blocks continuará recebendo atualizações?",
-          "answer": "Sim. Algumas atualizações de conteúdo estão planejadas após o lançamento, mas não pretendem continuar em um cronograma regular indefinido."
+          "question": "Quais membros originais da equipe são os mais pesquisados?",
+          "answer": "The Professor, Lisboa, Rio, Denver, Palermo, Bogotá, Helsinki e Estocolmo continuam sendo os nomes mais pesquisados."
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Steam Deck e Controle em Lucid Blocks",
+      "title": "Guia de Plataformas de Money Heist Season 6",
       "displayType": "accordion",
-      "intro": "Lucid Blocks pode rodar no Steam Deck, mas a configuração padrão pode precisar de ajustes. Teclado e mouse continuam sendo a opção mais fluida para menus e jogabilidade geral.",
+      "intro": "Orientações de plataforma e acesso para assistir aos títulos do universo Money Heist.",
       "faqs": [
         {
-          "question": "Lucid Blocks funciona no Steam Deck?",
-          "answer": "Sim. O Proton 9.0 funciona bem, e o Proton 9.0.4 é uma correção comumente compartilhada para problemas no Steam Deck."
+          "question": "Onde posso assistir às atualizações de Money Heist Season 6?",
+          "answer": "Use as páginas oficiais de títulos da Netflix e as atualizações do Tudum para informações verificadas da franquia."
         },
         {
-          "question": "O que devo fazer se os controles do Steam Deck não estiverem funcionando?",
-          "answer": "Force a compatibilidade e mude o jogo para o Proton 9.0.4. A configuração padrão pode não aceitar a entrada do controle corretamente."
+          "question": "Money Heist está disponível globalmente na mesma data?",
+          "answer": "A disponibilidade é ampla, mas os catálogos regionais e as faixas de áudio podem variar de acordo com a localização da conta."
         },
         {
-          "question": "Lucid Blocks suporta controles?",
-          "answer": "Sim, mas jogar no controle não é recomendado porque os menus do jogo não foram projetados para isso."
+          "question": "Posso assistir a Berlin separadamente da série original?",
+          "answer": "Sim, Berlin tem sua própria página de título dedicada e pode ser assistido de forma independente."
         },
         {
-          "question": "O suporte para Linux é possível?",
-          "answer": "Sim. Relatos indicam que o Proton 9.0 funciona bem para Linux e Steam Deck."
+          "question": "Money Heist: Coreia afeta o cânone original de Season 6?",
+          "answer": "Não, a Coreia é um caminho de adaptação e não a continuação direta da linha do tempo original."
         },
         {
-          "question": "Qual é a melhor configuração de entrada?",
-          "answer": "Teclado e mouse são a opção mais fluida para navegação em menus e jogabilidade geral momento a momento."
+          "question": "Qual plataforma fornece as atualizações de lançamento mais confiáveis?",
+          "answer": "As páginas oficiais da Netflix e os anúncios do Tudum são as fontes mais consistentes."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Configurações e Acessibilidade de Lucid Blocks",
+      "title": "Configurações de Visualização de Money Heist Season 6",
       "displayType": "settingCards",
-      "intro": "Lucid Blocks já possui algumas configurações práticas e notas de compatibilidade que importam imediatamente quando os jogadores iniciam o jogo pela primeira vez.",
+      "intro": "Use estas configurações de visualização para obter a melhor experiência em todos os títulos de Money Heist.",
       "settings": [
         {
-          "name": "Configurações de Exibição",
-          "type": "Opção de Conforto",
-          "description": "As Configurações de Exibição incluem uma opção que permite aos jogadores ocultar as mãos na tela."
+          "name": "Seleção de Idioma de Áudio",
+          "type": "Configuração de Reprodução",
+          "description": "Escolha o áudio original em espanhol ou faixas dubladas com base na sua preferência."
         },
         {
-          "name": "Compatibilidade Gráfica",
-          "type": "Requisito do Sistema",
-          "description": "O suporte a __PROTECTED_38625270__ é necessário para que os gráficos sejam renderizados corretamente. Sistemas sem __PROTECTED_38625270__ podem sofrer falhas e erros gráficos graves."
+          "name": "Configuração de Legendas",
+          "type": "Acessibilidade",
+          "description": "Ative as configurações de idioma e estilo de legenda para um acompanhamento mais claro dos diálogos."
         },
         {
-          "name": "Preferência de Entrada",
-          "type": "Configuração de Controle",
-          "description": "O suporte a controle existe, mas o teclado e o mouse proporcionam uma experiência mais fluida porque os menus não foram construídos para o uso de controle."
+          "name": "Qualidade de Reprodução",
+          "type": "Qualidade de Streaming",
+          "description": "Defina o modo de qualidade de acordo com a largura de banda para evitar travamentos durante cenas importantes."
         },
         {
-          "name": "Suporte de Idioma",
-          "type": "Localização",
-          "description": "A configuração atual é apenas em inglês, e nenhuma tradução está planejada no momento."
+          "name": "Controles de Maturidade do Perfil",
+          "type": "Configuração da Conta",
+          "description": "Verifique as restrições do perfil para garantir a visibilidade total dos episódios."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Atualizações e Notas de Patch de Lucid Blocks",
+      "title": "Linha do Tempo de Atualizações de Money Heist Season 6",
       "displayType": "timeline",
-      "intro": "Lucid Blocks já está recebendo correções rápidas pós-lançamento e pequenas atualizações de usabilidade.",
+      "intro": "Uma visualização em linha do tempo ajuda a acompanhar como as atualizações do universo Money Heist evoluíram após o final original.",
       "entries": [
         {
-          "title": "Atualização 2.8.2",
-          "type": "Atualização de UI",
-          "description": "Renomeado \"awaken\" para \"exit\" no menu principal."
+          "title": "Final da Parte 5 Publicado",
+          "type": "Marco Principal",
+          "description": "O arco principal da série original foi concluído no período final da quinta parte."
         },
         {
-          "title": "Pequeno Patch para Falhas na Inicialização",
-          "type": "Hotfix",
-          "description": "Um patch dedicado foi lançado para jogadores cujo jogo estava travando ao iniciar."
+          "title": "Anúncio de Continuação do Universo",
+          "type": "Atualização da Franquia",
+          "description": "As mensagens oficiais de continuação mudaram o foco para histórias conectadas."
         },
         {
-          "title": "Suporte de Conteúdo Pós-Lançamento",
-          "type": "Nota do Roteiro",
-          "description": "Algumas atualizações de conteúdo estão planejadas após o lançamento, mas não pretendem continuar em um cronograma regular indefinido."
+          "title": "Janela de Lançamento do Spin-off Berlin",
+          "type": "Marco do Spin-off",
+          "description": "Berlin tornou-se o fluxo de conteúdo ativo para o universo da franquia."
+        },
+        {
+          "title": "Data de Berlin e a Dama com Arminho",
+          "type": "Próximo Lançamento",
+          "description": "15 de maio de 2026 aparece como um ponto datado importante para a próxima parte de Berlin."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Correção de Falhas e Solução de Problemas de Lucid Blocks",
+      "title": "Ajuda de Pesquisa para Money Heist Season 6",
       "displayType": "steps",
-      "intro": "A maioria dos problemas imediatos de inicialização e falhas deve ser verificada em uma ordem simples: nível do patch, suporte gráfico, compatibilidade de plataforma e logs.",
+      "intro": "Use este fluxo de solução de problemas quando os resultados de pesquisa da Temporada 6 entrarem em conflito.",
       "steps": [
         {
-          "title": "Instale o Hotfix de Falhas Mais Recente",
-          "description": "Se o jogo estiver travando ao iniciar, atualize primeiro e teste novamente com o patch de falha de inicialização mais recente."
+          "title": "Comece com a Listagem Oficial da Série",
+          "description": "Verifique a página oficial do título para confirmar o status atual da temporada e da parte."
         },
         {
-          "title": "Verifique o Suporte a __PROTECTED_38625270__",
-          "description": "Lucid Blocks requer suporte a __PROTECTED_38625270__. Sistemas sem __PROTECTED_38625270__ podem sofrer falhas ou grandes problemas de renderização."
+          "title": "Verifique os Rótulos dos Trailers",
+          "description": "Confirme se o vídeo é a Parte 5, Berlin ou um anúncio real de nova temporada."
         },
         {
-          "title": "Use o Proton 9.0.4 no Steam Deck",
-          "description": "Se o comportamento de entrada ou inicialização do Steam Deck estiver quebrado, force a compatibilidade e mude para o Proton 9.0.4."
+          "title": "Separe Reivindicações de Spin-off vs. Temporada",
+          "description": "Classifique cada atualização como conteúdo de spin-off ou continuação direta da série original."
         },
         {
-          "title": "Colete Logs de Falhas",
-          "description": "Abra o Executar do Windows, cole %APPDATA%, vá para lucid blocks/logs e reúna os arquivos .txt para solução de problemas."
+          "title": "Cruze as Datas de Lançamento",
+          "description": "Valide as datas em postagens oficiais para evitar cronogramas de rumores reciclados."
         },
         {
-          "title": "Relate o Problema Corretamente",
-          "description": "Compartilhe os logs e detalhes do dispositivo através do fórum oficial de bug-reports no Discord ou na página da comunidade do Steam."
+          "title": "Use Hubs de Comunidade Confiáveis",
+          "description": "Acompanhe a conversa em canais de fãs estabelecidos, preservando a prioridade das fontes oficiais."
         }
       ]
     }
   },
   "faq": {
-    "title": "Perguntas",
-    "titleHighlight": "Frequentes",
-    "subtitle": "Tudo o que você precisa saber sobre Lucid Blocks",
+    "title": "Perguntas Frequentes sobre Money Heist Season 6",
+    "titleHighlight": "Respostas",
+    "subtitle": "Principais perguntas sobre Money Heist Season 6 sobre status de lançamento, trailers, elenco e opções para assistir",
     "questions": [
       {
-        "question": "O Lucid Blocks é um jogo singleplayer?",
-        "answer": "Sim. Lucid Blocks é um jogo exclusivamente singleplayer, sem planos para multiplayer ou co-op."
+        "question": "Money Heist Season 6 está oficialmente confirmada?",
+        "answer": "Money Heist Season 6 não possui atualmente uma listagem de lançamento oficial independente na Netflix."
       },
       {
-        "question": "O que é o sistema Apotheosis em Lucid Blocks?",
-        "answer": "Apotheosis é o sistema de criação por fusão de forma livre do Lucid Blocks. Em vez de seguir receitas fixas, você combina materiais e descobre seus próprios caminhos de criação."
+        "question": "Money Heist Season 6 tem um trailer oficial?",
+        "answer": "Não há um trailer oficial dedicado rotulado como Money Heist Season 6 no momento."
       },
       {
-        "question": "Onde posso jogar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponível atualmente no Steam para Windows. O suporte para Linux e Steam Deck está disponível através do Proton 9.0."
+        "question": "Money Heist Season 6: O elenco original de Money Heist retornará na Temporada 6?",
+        "answer": "Contexto de Money Heist Season 6: Nenhum anúncio oficial de elenco da Temporada 6 foi publicado para a equipe original."
       },
       {
-        "question": "Quanto custa o Lucid Blocks?",
-        "answer": "O Lucid Blocks custa US$ 9,99 no Steam."
-      },
-      {
-        "question": "O Lucid Blocks tem suporte para controles?",
-        "answer": "Sim, mas jogar no controle não é recomendado porque os menus não foram projetados para isso. Teclado e mouse são a opção mais fluida."
-      },
-      {
-        "question": "O Lucid Blocks receberá atualizações?",
-        "answer": "Sim. Algumas atualizações de conteúdo estão planejadas após o lançamento, mas não há a intenção de mantê-las em um cronograma regular indefinido."
+        "question": "Berlin e a Dama com Arminho são o mesmo que Money Heist Season 6?",
+        "answer": "Contexto de Money Heist Season 6: Pertence ao mesmo universo, mas é um spin-off focado em Berlin, não uma continuação direta da Temporada 6."
       }
     ]
   },
   "cta": {
-    "title": "Pronto para explorar Lucid Blocks?",
-    "description": "Junte-se à comunidade de Lucid Blocks no Discord para guias, atualizações e discussões!",
-    "joinCommunity": "Entrar no Discord",
-    "joinGame": "Jogue no Steam"
+    "title": "Pronto para atualizações de Money Heist Season 6?",
+    "description": "Siga as atualizações oficiais da Netflix, trailers e notícias do elenco para Money Heist Season 6 e o universo de Berlin.",
+    "joinCommunity": "Participe da Comunidade no Reddit",
+    "joinGame": "Assista na Netflix"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Seu centro de recursos completo para crafting, biomas, criaturas, conquistas e guias de sobrevivência de Lucid Blocks.",
+    "title": "Wiki de Money Heist Season 6",
+    "description": "Seu hub de recursos de fãs para o status de Money Heist Season 6, rastreamento de lançamento, atualizações de elenco e cobertura de trailers oficiais.",
     "resources": "Recursos",
     "community": "Comunidade",
-    "legal": "Legal",
-    "discord": "Discord",
+    "legal": "Jurídico",
+    "discord": "Instagram",
     "twitter": "X / Twitter",
-    "steamCommunity": "Comunidade Steam",
-    "steamStore": "Loja Steam",
+    "steamCommunity": "Reddit",
+    "steamStore": "Assista na Netflix",
     "about": "Sobre",
     "privacy": "Política de Privacidade",
     "terms": "Termos de Serviço",
-    "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Wiki de Lucid Blocks. Não afiliada aos desenvolvedores de Lucid Blocks.",
-    "disclaimer": "Site de recursos não oficial feito por fãs."
+    "copyrightNotice": "Direitos Autorais",
+    "copyright": "© 2026 Money Heist Season 6 Wiki. Não afiliado à Netflix ou Vancouver Media.",
+    "disclaimer": "Site de recursos não oficial feito por fãs que cobre atualizações do universo Money Heist."
   },
   "pages": {
-    "guides": {
-      "title": "Guias de Lucid Blocks",
-      "description": "Guias de jogabilidade completos, desde o básico para iniciantes até estratégias avançadas de Apotheosis. Domine a sobrevivência e a criação.",
-      "metaTitle": "Guias de Lucid Blocks - Estratégias do Iniciante ao Avançado",
-      "metaDescription": "Guias completos de Lucid Blocks abrangendo dicas para iniciantes, sistema Apotheosis, estratégias de sobrevivência e táticas de especialistas para dominar o sandbox surreal.",
-      "categoryLabel": "GUIAS DE JOGO",
-      "whatIs": "O que são Guias?",
-      "whatIsDescription": "Guias abrangentes que cobrem mecânicas de jogo, estratégias de sobrevivência e o sistema de criação Apotheosis. Aprenda tudo, desde os primeiros passos até técnicas avançadas.",
-      "why": "Por que ler os guias?",
+    "release": {
+      "title": "Data de Lançamento de Money Heist Season 6",
+      "description": "Acompanhe o status oficial da data de lançamento, marcos do cronograma e sinais de lançamento listados na plataforma para Money Heist Season 6.",
+      "metaTitle": "Data de Lançamento de Money Heist Season 6 - Status Oficial e Cronograma",
+      "metaDescription": "Obtenha o status oficial mais recente da data de lançamento de Money Heist Season 6, contexto do cronograma e principais sinais de lançamento das atualizações da plataforma.",
+      "categoryLabel": "DATA DE LANÇAMENTO",
+      "whatIs": "O que é a categoria Data de Lançamento?",
+      "whatIsDescription": "Esta categoria rastreia todos os sinais de data oficiais vinculados às pesquisas de Money Heist Season 6, incluindo listagens de plataformas, janelas de eventos e prazos de marcos da franquia.",
+      "why": "Por que seguir as páginas de data de lançamento?",
       "whySteps": {
-        "step1Title": "Aprenda as Mecânicas Principais",
-        "step1Description": "Entenda o sistema Apotheosis e evite erros comuns de iniciantes",
-        "step2Title": "Progressão Rápida",
-        "step2Description": "Siga caminhos comprovados para sobreviver e prosperar no mundo surreal",
-        "step3Title": "Domine as Estratégias",
-        "step3Description": "Desenvolva táticas avançadas para exploração e criação"
+        "step1Title": "Rastreie Sinais Oficiais",
+        "step1Description": "Siga as atualizações de prazos listadas na plataforma em vez de repostagens de rumores.",
+        "step2Title": "Entenda o Contexto do Cronograma",
+        "step2Description": "Separe os marcos da série original das datas do universo de Berlin.",
+        "step3Title": "Planeje Atualizações de Visualização",
+        "step3Description": "Saiba quando verificar novamente as listagens em torno das principais janelas de anúncios."
       },
       "featured": "Destaques e Essenciais",
-      "all": "Todos os Guias"
+      "all": "Todos os Artigos de Lançamento"
     },
-    "crafting": {
-      "title": "Criação em Lucid Blocks",
-      "description": "Domine o sistema de fusão Apotheosis com mecânicas de essência, receitas e estratégias de criação para itens poderosos.",
-      "metaTitle": "Criação em Lucid Blocks - Sistema Apotheosis e Receitas",
-      "metaDescription": "Domine o sistema de criação Apotheosis de Lucid Blocks. Aprenda mecânicas de essência, receitas de fusão e estratégias para criar ferramentas e armas poderosas.",
-      "categoryLabel": "SISTEMA DE CRIAÇÃO",
-      "whatIs": "O que é a Criação?",
-      "whatIsDescription": "O sistema Apotheosis é uma mecânica de fusão única baseada em essências, onde você combina até seis itens para descobrir novas receitas. Sem menus de criação fixos — a experimentação é a chave.",
-      "why": "Por que dominar a criação?",
+    "confirmed": {
+      "title": "Status de Confirmação de Money Heist Season 6",
+      "description": "Encontre cobertura clara de confirmação sim-ou-não para Money Heist Season 6 e diferencie o status oficial de especulações de fãs.",
+      "metaTitle": "Money Heist Season 6 Confirmada - Status Oficial Sim ou Não",
+      "metaDescription": "Verifique se Money Heist Season 6 está confirmada, o que foi anunciado oficialmente e como separar atualizações da franquia de confirmações diretas da temporada.",
+      "categoryLabel": "STATUS DE CONFIRMAÇÃO",
+      "whatIs": "O que é a categoria Confirmado?",
+      "whatIsDescription": "Esta categoria foca na lógica de confirmação: o que é anunciado oficialmente, o que permanece não confirmado e como classificar alegações sobre Money Heist Season 6.",
+      "why": "Por que ler as páginas de confirmação?",
       "whySteps": {
-        "step1Title": "Desbloqueie Itens Poderosos",
-        "step1Description": "Descubra ferramentas essenciais, armas e equipamentos de mobilidade através da fusão",
-        "step2Title": "Entenda as Essências",
-        "step2Description": "Saiba como as essências dos itens se combinam para criar resultados previsíveis",
-        "step3Title": "Otimize Recursos",
-        "step3Description": "Use mecânicas de diluição para maximizar o rendimento de materiais baratos"
+        "step1Title": "Evite Desinformação",
+        "step1Description": "Identifique alegações que não são apoiadas por listagens oficiais.",
+        "step2Title": "Classifique Alegações Corretamente",
+        "step2Description": "Diferencie anúncios de spin-offs da confirmação da Season 6.",
+        "step3Title": "Compartilhe Atualizações Precisas",
+        "step3Description": "Use um status de confirmação claro ao postar ou discutir atualizações."
       },
       "featured": "Destaques e Essenciais",
-      "all": "Todos os Guias de Criação"
+      "all": "Todos os Artigos Confirmados"
     },
-    "items": {
-      "title": "Itens de Lucid Blocks",
-      "description": "Guias detalhados de itens abrangendo ferramentas, armas, equipamentos de mobilidade e soluções de armazenamento com receitas de criação e dicas de uso.",
-      "metaTitle": "Itens de Lucid Blocks - Guia de Ferramentas, Armas e Equipamentos",
-      "metaDescription": "Banco de dados completo de itens para Lucid Blocks, incluindo ferramentas, armas, equipamentos de mobilidade e armazenamento. Aprenda a criar e usar cada item de forma eficaz.",
-      "categoryLabel": "ITENS E EQUIPAMENTOS",
-      "whatIs": "O que são Itens?",
-      "whatIsDescription": "Guias abrangentes para ferramentas, armas, equipamentos de mobilidade e itens funcionais. Aprenda receitas de criação, estratégias de uso e combinações ideais.",
-      "why": "Por que consultar os guias de itens?",
+    "trailer": {
+      "title": "Guia de Trailer de Money Heist Season 6",
+      "description": "Revise a cobertura de trailers e teasers, incluindo uploads oficiais, edições rotuladas incorretamente e clipes de continuação da franquia.",
+      "metaTitle": "Trailer de Money Heist Season 6 - Vídeos Oficiais e Verificações de Teaser",
+      "metaDescription": "Navegue pela cobertura de trailers de Money Heist Season 6 com verificações de vídeos oficiais, contexto de teasers e orientações para identificar edições de conceito rotuladas incorretamente.",
+      "categoryLabel": "TRAILERS E TEASERS",
+      "whatIs": "O que é a categoria Trailer?",
+      "whatIsDescription": "Esta categoria organiza buscas relacionadas a trailers de Money Heist Season 6, incluindo clipes oficiais, cronogramas de teasers e padrões comuns de rotulagem incorreta.",
+      "why": "Por que usar as páginas de trailer?",
       "whySteps": {
-        "step1Title": "Aprenda Receitas de Criação",
-        "step1Description": "Descubra como criar ferramentas e armas essenciais usando Apotheosis",
-        "step2Title": "Otimize seu Equipamento",
-        "step2Description": "Escolha os melhores itens para seu estilo de jogo e estágio de progressão",
-        "step3Title": "Melhore a Sobrevivência",
-        "step3Description": "Equipe-se com itens de mobilidade e armas para navegar pelo mundo perigoso"
+        "step1Title": "Encontre Vídeos Oficiais",
+        "step1Description": "Localize uploads verificados vinculados a canais oficiais e páginas de títulos.",
+        "step2Title": "Detecte Rótulos Incorretos",
+        "step2Description": "Identifique edições de conceito feitas por fãs apresentadas incorretamente como trailers oficiais.",
+        "step3Title": "Acompanhe o Cronograma da Campanha",
+        "step3Description": "Monitore a progressão de teaser para trailer em torno dos ciclos de anúncio."
       },
       "featured": "Destaques e Essenciais",
-      "all": "Todos os Itens"
+      "all": "Todos os Artigos de Trailer"
     },
-    "biomes": {
-      "title": "Biomas de Lucid Blocks",
-      "description": "Explore as regiões do mundo, características ambientais, locais de recursos e dicas de sobrevivência para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiões do Mundo e Exploração",
-      "metaDescription": "Explore os biomas de Lucid Blocks, incluindo as Linhas de Ley Tiamana, Fog Meadow e regiões surreais. Encontre recursos, evite perigos e navegue pelo mundo infinito.",
-      "categoryLabel": "REGIÕES DO MUNDO",
-      "whatIs": "O que são Biomas?",
-      "whatIsDescription": "Guias para as diferentes regiões do mundo, características ambientais, distribuição de recursos e zonas de perigo. Saiba o que esperar e como se preparar para cada área.",
-      "why": "Por que explorar os biomas?",
+    "news": {
+      "title": "Atualizações de Notícias de Money Heist Season 6",
+      "description": "Acompanhe a cobertura diária de notícias de Money Heist Season 6, rastreamento de anúncios e resumos de atualizações da franquia em uma única linha do tempo.",
+      "metaTitle": "Notícias de Money Heist Season 6 - Últimas Atualizações e Anúncios",
+      "metaDescription": "Mantenha-se atualizado com as notícias de Money Heist Season 6, rastreamento de anúncios oficiais e atualizações da linha do tempo da franquia na Netflix e canais relacionados.",
+      "categoryLabel": "ÚLTIMAS NOTÍCIAS",
+      "whatIs": "O que é a categoria Notícias?",
+      "whatIsDescription": "Esta categoria reúne reportagens contínuas relacionadas a Money Heist Season 6, incluindo anúncios, atualizações de cronograma e desenvolvimentos importantes da franquia.",
+      "why": "Por que seguir as páginas de notícias?",
       "whySteps": {
-        "step1Title": "Encontre Recursos",
-        "step1Description": "Localize materiais raros e essências específicas de cada região",
-        "step2Title": "Evite Perigos",
-        "step2Description": "Entenda os riscos ambientais e as criaturas hostis",
-        "step3Title": "Planeje a Exploração",
-        "step3Description": "Prepare as ferramentas e equipamentos certos para cada tipo de bioma"
+        "step1Title": "Monitore Mudanças Diárias",
+        "step1Description": "Acompanhe novas declarações, atualizações e sinais de janelas de lançamento.",
+        "step2Title": "Obtenha Contexto Organizado",
+        "step2Description": "Leia atualizações em cronologia estruturada em vez de postagens fragmentadas.",
+        "step3Title": "Reaja Mais Rápido",
+        "step3Description": "Use resumos atuais para validar rapidamente manchetes emergentes."
       },
       "featured": "Destaques e Essenciais",
-      "all": "Todos os Biomas"
+      "all": "Todos os Artigos de Notícias"
     },
-    "building": {
-      "title": "Construção em Lucid Blocks",
-      "description": "Domine as dimensões pessoais Qualia, construção de bases, gerenciamento de armazenamento e técnicas de construção criativa.",
-      "metaTitle": "Construção em Lucid Blocks - Qualia e Construção de Bases",
-      "metaDescription": "Domine a construção em Lucid Blocks com dimensões pessoais Qualia, construção de bases, soluções de armazenamento e técnicas criativas de construção.",
-      "categoryLabel": "CONSTRUÇÃO E BASES",
-      "whatIs": "O que é a Construção?",
-      "whatIsDescription": "Guias para o sistema de dimensão pessoal Qualia, construção de bases, gerenciamento de armazenamento e construção criativa. Aprenda a criar seu refúgio seguro no mundo surreal.",
-      "why": "Por que construir bases?",
+    "episodes": {
+      "title": "Guia de Episódios de Money Heist Season 6",
+      "description": "Explore a cobertura da lista de episódios, referências de numeração e estrutura de visualização entre as partes da série principal e títulos ativos do universo.",
+      "metaTitle": "Episódios de Money Heist Season 6 - Lista, Contagem e Estrutura de Visualização",
+      "metaDescription": "Verifique consultas sobre a lista de episódios de Money Heist Season 6, expectativas de total de episódios e como as referências de episódios se mapeiam na linha do tempo mais ampla da franquia.",
+      "categoryLabel": "GUIA DE EPISÓDIOS",
+      "whatIs": "O que é a categoria Episódios?",
+      "whatIsDescription": "Esta categoria abrange buscas focadas em episódios para Money Heist Season 6, incluindo intenção de lista, perguntas sobre contagem e referências de estrutura em títulos relacionados.",
+      "why": "Por que ler as páginas de episódios?",
       "whySteps": {
-        "step1Title": "Crie Espaços Seguros",
-        "step1Description": "Estabeleça bases seguras para operações de armazenamento e criação",
-        "step2Title": "Gerencie Recursos",
-        "step2Description": "Organize materiais de forma eficiente com soluções de armazenamento",
-        "step3Title": "Desbloqueie a Qualia",
-        "step3Description": "Acesse dimensões de bolso pessoais para o máximo de conveniência"
+        "step1Title": "Esclareça a Contagem de Episódios",
+        "step1Description": "Entenda o que está listado oficialmente versus a numeração especulativa.",
+        "step2Title": "Mapeie a Estrutura de Visualização",
+        "step2Description": "Conecte episódios originais baseados em partes com arcos de episódios de spin-offs.",
+        "step3Title": "Reduza a Confusão de Busca",
+        "step3Description": "Use uma única fonte para resolver rapidamente alegações mistas de episódios."
       },
       "featured": "Destaques e Essenciais",
-      "all": "Todos os Guias de Construção"
+      "all": "Todos os Artigos de Episódios"
     },
-    "support": {
-      "title": "Suporte de Lucid Blocks",
-      "description": "Suporte técnico, compatibilidade de plataforma, otimização de desempenho e solução de problemas comuns.",
-      "metaTitle": "Suporte de Lucid Blocks - Ajuda Técnica e Correções",
-      "metaDescription": "Obtenha suporte técnico para Lucid Blocks, incluindo configuração do Steam Deck, correções de falhas, otimização de desempenho e guias de compatibilidade de plataforma.",
-      "categoryLabel": "SUPORTE TÉCNICO",
-      "whatIs": "O que é o Suporte?",
-      "whatIsDescription": "Guias técnicos que cobrem compatibilidade de plataforma, otimização de desempenho, correções de falhas e problemas comuns. Obtenha ajuda com o Steam Deck, dúvidas sobre multijogador e configurações.",
-      "why": "Por que consultar o suporte?",
+    "cast": {
+      "title": "Guia do Elenco de Money Heist Season 6",
+      "description": "Acompanhe pesquisas relacionadas ao elenco, expectativas de retorno de personagens e sinais oficiais de escalação para as discussões de Money Heist Season 6.",
+      "metaTitle": "Elenco de Money Heist Season 6 - Personagens, Atores e Status de Retorno",
+      "metaDescription": "Confira a cobertura do elenco de Money Heist Season 6 com referências de atores, discussões sobre o retorno de personagens e sinais oficiais de atualizações de elenco.",
+      "categoryLabel": "ELENCO & PERSONAGENS",
+      "whatIs": "O que é a categoria Elenco?",
+      "whatIsDescription": "Esta categoria foca em pesquisas sobre elenco e personagens em torno de Money Heist Season 6, incluindo consultas sobre atores, continuidade de papéis e discussões sobre status de retorno.",
+      "why": "Por que usar as páginas de elenco?",
       "whySteps": {
-        "step1Title": "Corrija Problemas Técnicos",
-        "step1Description": "Resolva falhas, problemas de desempenho e questões de compatibilidade",
-        "step2Title": "Otimize o Desempenho",
-        "step2Description": "Configure os ajustes para a melhor experiência em sua plataforma",
-        "step3Title": "Compatibilidade de Plataforma",
-        "step3Description": "Saiba mais sobre o Steam Deck, suporte a controles e requisitos de sistema"
+        "step1Title": "Acompanhe o Interesse nos Personagens",
+        "step1Description": "Veja quais personagens originais e derivados impulsionam a demanda atual.",
+        "step2Title": "Separe Rumores de Sinais",
+        "step2Description": "Identifique alegações sobre o elenco que possuem suporte oficial versus especulação.",
+        "step3Title": "Siga Cenários de Retorno",
+        "step3Description": "Entenda os prováveis caminhos de continuidade discutidos nas atualizações da franquia."
       },
-      "featured": "Destaques e Essenciais",
-      "all": "Todos os Artigos de Suporte"
+      "featured": "Destaques & Essenciais",
+      "all": "Todos os Artigos de Elenco"
     }
   }
 }
