@@ -11,12 +11,12 @@
     }
   },
   "nav": {
-    "guides": "Rehberler",
-    "crafting": "Üretim",
-    "items": "Eşyalar",
-    "biomes": "Biyomlar",
-    "building": "İnşa",
-    "support": "Destek"
+    "release": "Release",
+    "confirmed": "Confirmed",
+    "trailer": "Trailer",
+    "news": "News",
+    "episodes": "Episodes",
+    "cast": "Cast"
   },
   "common": {
     "home": "Ana Sayfa",

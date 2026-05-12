@@ -125,9 +125,13 @@ export async function getAllContent(
       // 先尝试当前语言（反查真实文件名以处理含特殊字符的文件名）
       const realSlug = findFileBySlug(contentDir, slug) || slug
       const mod = await import(`../../content/${language}/${contentType}/${realSlug}.mdx`)
+      const frontmatter = mod.metadata as ContentFrontmatter | undefined
+      if (!frontmatter || !frontmatter.title) {
+        continue
+      }
       items.push({
         slug,
-        frontmatter: mod.metadata as ContentFrontmatter,
+        frontmatter,
       })
     } catch {
       // Fallback 到英文
@@ -136,9 +140,13 @@ export async function getAllContent(
           const enContentDir = path.join(process.cwd(), 'content', 'en', contentType)
           const enRealSlug = findFileBySlug(enContentDir, slug) || slug
           const mod = await import(`../../content/en/${contentType}/${enRealSlug}.mdx`)
+          const frontmatter = mod.metadata as ContentFrontmatter | undefined
+          if (!frontmatter || !frontmatter.title) {
+            continue
+          }
           items.push({
             slug,
-            frontmatter: mod.metadata as ContentFrontmatter,
+            frontmatter,
           })
         } catch {
           // 跳过无法加载的文件

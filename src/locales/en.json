@@ -10,7 +10,14 @@
       "twitterDescription": "Follow Money Heist Season 6 status, trailer signals, cast updates, and where to watch on Netflix."
     }
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "confirmed": "Confirmed",
+    "trailer": "Trailer",
+    "news": "News",
+    "episodes": "Episodes",
+    "cast": "Cast"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -818,125 +825,125 @@
     "disclaimer": "Unofficial fan-made resource website covering Money Heist universe updates."
   },
   "pages": {
-    "guides": {
-      "title": "Money Heist Season 6 Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Money Heist Season 6 Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Money Heist Season 6 guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "release": {
+      "title": "Money Heist Season 6 Release Date",
+      "description": "Track official release-date status, timeline milestones, and platform-listed launch signals for Money Heist Season 6.",
+      "metaTitle": "Money Heist Season 6 Release Date - Official Status & Timeline",
+      "metaDescription": "Get the latest official Money Heist Season 6 release-date status, timeline context, and key launch signals from platform updates.",
+      "categoryLabel": "RELEASE DATE",
+      "whatIs": "What is the Release Date category?",
+      "whatIsDescription": "This category tracks every official date signal tied to Money Heist Season 6 searches, including platform listings, event windows, and franchise milestone timing.",
+      "why": "Why follow release-date pages?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Track Official Signals",
+        "step1Description": "Follow platform-listed timing updates instead of rumor reposts.",
+        "step2Title": "Understand Timeline Context",
+        "step2Description": "Separate original-series milestones from Berlin-universe dates.",
+        "step3Title": "Plan Viewing Updates",
+        "step3Description": "Know when to recheck listings around major announcement windows."
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Release Articles"
     },
-    "crafting": {
-      "title": "Money Heist Season 6 Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Money Heist Season 6 Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Money Heist Season 6 Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "confirmed": {
+      "title": "Money Heist Season 6 Confirmed Status",
+      "description": "Find clear yes-or-no confirmation coverage for Money Heist Season 6 and distinguish official status from fan speculation.",
+      "metaTitle": "Money Heist Season 6 Confirmed - Official Yes or No Status",
+      "metaDescription": "Check whether Money Heist Season 6 is confirmed, what has been officially announced, and how to separate franchise updates from direct season confirmation.",
+      "categoryLabel": "CONFIRMATION STATUS",
+      "whatIs": "What is the Confirmed category?",
+      "whatIsDescription": "This category focuses on confirmation logic: what is officially announced, what remains unconfirmed, and how to classify claims about Money Heist Season 6.",
+      "why": "Why read confirmation pages?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Avoid Misinformation",
+        "step1Description": "Identify claims that are not backed by official listings.",
+        "step2Title": "Label Claims Correctly",
+        "step2Description": "Distinguish spin-off announcements from Season 6 confirmation.",
+        "step3Title": "Share Accurate Updates",
+        "step3Description": "Use clear confirmation status when posting or discussing updates."
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Confirmed Articles"
     },
-    "items": {
-      "title": "Money Heist Season 6 Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Money Heist Season 6 Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Money Heist Season 6 including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "trailer": {
+      "title": "Money Heist Season 6 Trailer Guide",
+      "description": "Review trailer and teaser coverage, including official uploads, mislabeled edits, and franchise continuation clips.",
+      "metaTitle": "Money Heist Season 6 Trailer - Official Videos & Teaser Checks",
+      "metaDescription": "Browse Money Heist Season 6 trailer coverage with official video checks, teaser context, and guidance for identifying mislabeled concept edits.",
+      "categoryLabel": "TRAILERS & TEASERS",
+      "whatIs": "What is the Trailer category?",
+      "whatIsDescription": "This category organizes trailer-related searches for Money Heist Season 6, including official clips, teaser timelines, and common mislabel patterns.",
+      "why": "Why use trailer pages?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Find Official Videos",
+        "step1Description": "Locate verified uploads tied to official channels and title pages.",
+        "step2Title": "Detect Mislabels",
+        "step2Description": "Spot fan-made concept edits incorrectly presented as official trailers.",
+        "step3Title": "Track Campaign Timing",
+        "step3Description": "Monitor teaser-to-trailer progression around announcement cycles."
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Trailer Articles"
     },
-    "biomes": {
-      "title": "Money Heist Season 6 Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Money Heist Season 6 Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Money Heist Season 6 biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "news": {
+      "title": "Money Heist Season 6 News Updates",
+      "description": "Follow daily Money Heist Season 6 news coverage, announcement tracking, and franchise update summaries in one timeline.",
+      "metaTitle": "Money Heist Season 6 News - Latest Updates & Announcements",
+      "metaDescription": "Stay current with Money Heist Season 6 news, official announcement tracking, and franchise timeline updates across Netflix and related channels.",
+      "categoryLabel": "LATEST NEWS",
+      "whatIs": "What is the News category?",
+      "whatIsDescription": "This category collects ongoing news reports related to Money Heist Season 6, including announcements, timeline updates, and major franchise developments.",
+      "why": "Why follow news pages?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Monitor Daily Changes",
+        "step1Description": "Keep up with new statements, updates, and release-window signals.",
+        "step2Title": "Get Organized Context",
+        "step2Description": "Read updates in structured chronology instead of fragmented posts.",
+        "step3Title": "React Faster",
+        "step3Description": "Use current summaries to quickly validate emerging headlines."
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All News Articles"
     },
-    "building": {
-      "title": "Money Heist Season 6 Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Money Heist Season 6 Building - Qualia & Base Construction",
-      "metaDescription": "Master Money Heist Season 6 building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "episodes": {
+      "title": "Money Heist Season 6 Episodes Guide",
+      "description": "Explore episode-list coverage, numbering references, and viewing structure across main-series parts and active universe titles.",
+      "metaTitle": "Money Heist Season 6 Episodes - List, Count & Viewing Structure",
+      "metaDescription": "Check Money Heist Season 6 episode-list queries, total-episode expectations, and how episode references map to the broader franchise timeline.",
+      "categoryLabel": "EPISODE GUIDE",
+      "whatIs": "What is the Episodes category?",
+      "whatIsDescription": "This category covers episode-focused searches for Money Heist Season 6, including list intent, count questions, and structure references across related titles.",
+      "why": "Why read episode pages?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Clarify Episode Counts",
+        "step1Description": "Understand what is officially listed versus speculative numbering.",
+        "step2Title": "Map Viewing Structure",
+        "step2Description": "Connect part-based original episodes with spin-off episode arcs.",
+        "step3Title": "Reduce Search Confusion",
+        "step3Description": "Use one source to resolve mixed episode claims quickly."
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Episodes Articles"
     },
-    "support": {
-      "title": "Money Heist Season 6 Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Money Heist Season 6 Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Money Heist Season 6 including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "cast": {
+      "title": "Money Heist Season 6 Cast Guide",
+      "description": "Track cast-related searches, returning-character expectations, and official casting signals for Money Heist Season 6 discussions.",
+      "metaTitle": "Money Heist Season 6 Cast - Characters, Actors & Return Status",
+      "metaDescription": "Review Money Heist Season 6 cast coverage with actor references, character return discussions, and official casting-update signals.",
+      "categoryLabel": "CAST & CHARACTERS",
+      "whatIs": "What is the Cast category?",
+      "whatIsDescription": "This category focuses on cast and character searches around Money Heist Season 6, including actor queries, role continuity, and return-status discussions.",
+      "why": "Why use cast pages?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Track Character Interest",
+        "step1Description": "See which original and spin-off characters drive current demand.",
+        "step2Title": "Separate Rumor from Signal",
+        "step2Description": "Identify cast claims that have official support versus speculation.",
+        "step3Title": "Follow Return Scenarios",
+        "step3Description": "Understand likely continuity paths discussed across franchise updates."
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Cast Articles"
     }
   }
 }

@@ -11,12 +11,12 @@
     }
   },
   "nav": {
-    "guides": "Anleitungen",
-    "crafting": "Herstellung",
-    "items": "Gegenstände",
-    "biomes": "Biome",
-    "building": "Bauen",
-    "support": "Unterstützung"
+    "release": "Release",
+    "confirmed": "Confirmed",
+    "trailer": "Trailer",
+    "news": "News",
+    "episodes": "Episodes",
+    "cast": "Cast"
   },
   "common": {
     "home": "Startseite",
