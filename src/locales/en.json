@@ -92,7 +92,7 @@
       },
       {
         "icon": "Film",
-        "title": "Money Heist Season 6 Spin Offs",
+        "title": "Money Heist Season 6 Spin-Offs",
         "description": "Berlin, Korea, and other universe expansions."
       },
       {
@@ -284,117 +284,177 @@
     "lucidBlocksQualiaAndBaseBuilding": {
       "title": "Money Heist Season 6 Episodes",
       "displayType": "cards",
-      "intro": "There is no published Season 6 episode list, so episode searches are best handled by mapping the confirmed original structure and ongoing franchise releases.",
+      "intro": "Season 6 does not have a standalone episode list. Use this guide to map the completed Money Heist Parts 1-5 structure and the ongoing Berlin universe titles.",
       "cards": [
         {
-          "name": "Original Series Format",
-          "description": "Money Heist is listed as a completed 5-part story."
+          "name": "Money Heist Season 6",
+          "description": "No official Season 6 episodes are listed. Use Parts 1-5 for the completed main story, then continue with Berlin titles for new franchise content."
         },
         {
-          "name": "Season 6 Episode Availability",
-          "description": "No official Season 6 episode titles or count are listed."
+          "name": "Money Heist Part 1",
+          "description": "13 Netflix episodes. Starts the Royal Mint of Spain heist and introduces the Professor's core crew."
         },
         {
-          "name": "Current Episode Activity",
-          "description": "New episodic momentum appears under Berlin continuity."
+          "name": "Money Heist Part 2",
+          "description": "9 Netflix episodes. Completes the Royal Mint arc and resolves the first major storyline."
         },
         {
-          "name": "How to Track New Entries",
-          "description": "Monitor official platform listings for verified episode drops."
+          "name": "Money Heist Part 3",
+          "description": "8 episodes. Begins the Bank of Spain arc after the crew reunites."
+        },
+        {
+          "name": "Money Heist Part 4",
+          "description": "8 episodes. Continues the Bank of Spain standoff and conflict with authorities."
+        },
+        {
+          "name": "Money Heist Part 5",
+          "description": "10 episodes in two volumes. Concludes the Bank of Spain storyline and the main series."
+        },
+        {
+          "name": "Berlin and the Jewels of Paris",
+          "description": "8 episodes. Spin-off prequel following Berlin's gang in a Paris jewel heist."
+        },
+        {
+          "name": "Berlin and the Lady with an Ermine",
+          "description": "8 episodes. Spin-off sequel expanding Berlin's story in Seville."
+        },
+        {
+          "name": "Money Heist: Korea - Joint Economic Area",
+          "description": "12 episodes. Korean remake with separate continuity and cast."
         }
       ],
       "highlights": [
-        "5 official parts listed",
-        "No Season 6 episode sheet",
-        "Berlin carries new episodic output",
-        "Use official listings for updates"
+        "No standalone Season 6 episode list",
+        "Main Spanish story is Parts 1-5",
+        "Berlin is the active spin-off branch",
+        "Korea is a separate adaptation timeline"
       ]
     },
     "lucidBlocksWorldRegions": {
       "title": "Money Heist Season 6 Watch Order",
       "displayType": "regionCards",
-      "intro": "Watch-order confusion is common for users searching Season 6. This sequence clarifies how to watch original and related titles without timeline confusion.",
+      "intro": "The cleanest viewing path is release-first for the main series, then documentaries and spin-offs. This order keeps spoilers and character reveals in sequence.",
       "regions": [
         {
-          "name": "Start with Money Heist Parts 1-5",
-          "type": "Core Canon",
-          "description": "Complete the original story first to understand all main-crew arcs."
+          "name": "Step 1: Money Heist Parts 1-2",
+          "type": "Main Story",
+          "description": "Watch first. Covers the Royal Mint of Spain heist and sets up the Professor's crew."
         },
         {
-          "name": "Continue with Berlin",
-          "type": "Prequel Branch",
-          "description": "Berlin expands the universe through earlier timeline events."
+          "name": "Step 2: Money Heist Parts 3-4",
+          "type": "Main Story",
+          "description": "Watch next. Expands the Bank of Spain arc that Part 5 depends on."
         },
         {
-          "name": "Add Money Heist: Korea",
-          "type": "Adaptation Path",
-          "description": "Optional reimagining with distinct cast and interpretation."
+          "name": "Step 3: Money Heist Part 5",
+          "type": "Main Story Finale",
+          "description": "Watch after Parts 3-4. This is the ending of the original Money Heist storyline."
         },
         {
-          "name": "Use Documentaries Last",
-          "type": "Bonus Context",
-          "description": "Behind-the-scenes viewing works best after finishing key narratives."
+          "name": "Step 4: Money Heist: The Phenomenon",
+          "type": "Documentary",
+          "description": "Optional after the main story for behind-the-scenes context on global impact."
+        },
+        {
+          "name": "Step 5: Money Heist: From Tokyo to Berlin",
+          "type": "Documentary Series",
+          "description": "Optional after Part 5. Cast and creators reflect on the finale and franchise close."
+        },
+        {
+          "name": "Step 6: Berlin and the Jewels of Paris",
+          "type": "Spin-off Prequel",
+          "description": "Best watched after the original series, even though the timeline is earlier."
+        },
+        {
+          "name": "Step 7: Berlin and the Lady with an Ermine",
+          "type": "Spin-off Sequel",
+          "description": "Watch after Berlin and the Jewels of Paris to continue Berlin's arc."
+        },
+        {
+          "name": "Step 8: Money Heist: Korea - Joint Economic Area",
+          "type": "Separate Remake",
+          "description": "Optional. Can be watched anytime after you know the original premise."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Money Heist Season 6 Spin Offs",
+      "title": "Money Heist Season 6 Spin-Offs",
       "displayType": "creatureCards",
-      "intro": "Many Season 6 searches are actually requests for upcoming spin-off content. These are the major connected productions to track.",
+      "intro": "Most Season 6 searches point to the wider franchise. Berlin is the main continuation path, while Korea and documentaries serve separate viewing goals.",
       "creatures": [
         {
-          "name": "Berlin",
-          "role": "Confirmed Spin-off",
-          "description": "Primary canonical expansion centered on Andres de Fonollosa."
+          "name": "Berlin and the Jewels of Paris",
+          "role": "Spin-off Prequel",
+          "description": "Available series following Berlin in Paris around a one-night jewel heist plan."
         },
         {
           "name": "Berlin and the Lady with an Ermine",
-          "role": "Upcoming Installment",
-          "description": "Next major Berlin-related story focus in the franchise timeline."
+          "role": "Spin-off Sequel",
+          "description": "Newest Berlin chapter centered on a da Vinci-linked operation in Seville."
         },
         {
           "name": "Money Heist: Korea - Joint Economic Area",
-          "role": "Regional Adaptation",
-          "description": "Parallel adaptation with independent continuity and cast."
+          "role": "Korean Remake",
+          "description": "Separate adaptation path with a Unified Korea Mint setting and different cast."
         },
         {
-          "name": "Future Universe Projects",
-          "role": "Expected Expansion",
-          "description": "Additional universe stories may continue before any direct Season 6 announcement."
+          "name": "Money Heist: The Phenomenon",
+          "role": "Documentary Special",
+          "description": "Behind-the-scenes special about how the series became a global Netflix hit."
+        },
+        {
+          "name": "Money Heist: From Tokyo to Berlin",
+          "role": "Documentary Series",
+          "description": "Companion documentary focused on cast, creators, and the final production phase."
+        },
+        {
+          "name": "Money Heist Universe Updates",
+          "role": "Official News Tracking",
+          "description": "Follow official Netflix channels for future franchise announcements and new title releases."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
       "title": "Money Heist Season 6 Where To Watch",
       "displayType": "itemCards",
-      "intro": "Use official streaming platforms to find Money Heist universe content and avoid unreliable mirror links.",
+      "intro": "Season 6 has no standalone title page, so the official viewing path is the main Money Heist page plus Berlin, Korea, and documentary pages on Netflix.",
       "items": [
         {
-          "name": "Netflix Main Series Page",
-          "type": "Primary Source",
-          "description": "Canonical listing for the original Money Heist parts."
+          "name": "Money Heist",
+          "type": "Main Series",
+          "description": "Netflix listing with the complete 5-part original story."
         },
         {
-          "name": "Netflix Berlin Page",
-          "type": "Spin-off Source",
-          "description": "Dedicated listing for Berlin continuity and episodes."
+          "name": "Berlin and the Jewels of Paris",
+          "type": "Spin-off Prequel",
+          "description": "Netflix spin-off listing with 8 episodes focused on Berlin's earlier timeline."
         },
         {
-          "name": "Netflix Korea Page",
-          "type": "Adaptation Source",
-          "description": "Official page for Money Heist: Korea."
+          "name": "Berlin and the Lady with an Ermine",
+          "type": "Spin-off Sequel",
+          "description": "Netflix listing for the latest Berlin installment and universe continuation."
         },
         {
-          "name": "Netflix Regional Availability",
-          "type": "Access Check",
-          "description": "Catalog and language options vary by account region."
+          "name": "Money Heist: Korea - Joint Economic Area",
+          "type": "Korean Remake",
+          "description": "Netflix page for the separate adaptation timeline."
+        },
+        {
+          "name": "Money Heist: The Phenomenon",
+          "type": "Documentary Special",
+          "description": "Official documentary title page with production and impact context."
+        },
+        {
+          "name": "Money Heist: From Tokyo to Berlin",
+          "type": "Documentary Series",
+          "description": "Official documentary series page tied to the Part 5 finale period."
         }
       ],
       "unlockMilestones": [
-        "Open official title page",
-        "Confirm region access",
-        "Verify subtitle options",
-        "Save canonical watch links"
+        "Use official Netflix title pages only",
+        "Check regional availability before playback",
+        "Confirm language and subtitle tracks",
+        "Avoid fake standalone Season 6 listings"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
