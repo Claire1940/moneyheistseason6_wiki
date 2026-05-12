@@ -441,3 +441,15 @@ Waiting for task: game-refactor-part8-translation-moneyheistseason6_20260512_055
    Still waiting... (1080s / 7200s)
    Still waiting... (1140s / 7200s)
    Still waiting... (1200s / 7200s)
+   Still waiting... (1260s / 7200s)
+   Still waiting... (1320s / 7200s)
+   Still waiting... (1380s / 7200s)
+   Still waiting... (1440s / 7200s)
+Task completed: game-refactor-part8-translation-moneyheistseason6_20260512_055037_3081198 (1480s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Summary: total=5 success=5 timeout=0 failed=0 time=3755s
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[0;32m✓ Batch dispatch 已完成（同步模式）[0m
+   日志: /root/Documents/GameProjects/moneyheistseason6_wiki/batch-dispatch-20260512_051251.log
