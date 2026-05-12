@@ -35,25 +35,25 @@ const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
 // Extra semantic keywords per module to boost matching for h2 titles
 // These supplement the module title text when matching against articles
 const MODULE_EXTRA_KEYWORDS: Record<string, string[]> = {
-  lucidBlocksBeginnerGuide: ['guide', 'mastering', 'progression', 'crafting', 'starter'],
-  lucidBlocksApotheosisCrafting: ['apotheosis', 'fusion', 'essence'],
-  lucidBlocksToolsAndWeapons: ['crafting recipes', 'frost pick', 'osmium', 'azrael', 'faith wand'],
-  lucidBlocksStorageAndInventory: ['chest', 'cache cube', 'cabinet', 'storage'],
-  lucidBlocksQualiaAndBaseBuilding: ['qualia', 'clonaqualia', 'personal dimensions'],
-  lucidBlocksWorldRegions: ['tiamana', 'leyline', 'biomes', 'regions'],
-  lucidBlocksCreaturesAndEnemies: ['survival', 'combat', 'surreal creatures'],
-  lucidBlocksMobilityGear: ['bee glider', 'hookshot', 'glider', 'movement'],
-  lucidBlocksFarmingAndGrowth: ['seed', 'farming', 'growth', 'material', 'progression', 'crafting'],
-  lucidBlocksBestEarlyUnlocks: ['early', 'osmium', 'frost pick', 'starter', 'progression'],
-  lucidBlocksAchievementTracker: ['achievement', 'tiamana', 'leyline'],
-  lucidBlocksSingleplayerAndPlatformFAQ: ['multiplayer', 'platform', 'co op'],
-  lucidBlocksSteamDeckAndController: ['steam deck', 'controller', 'proton'],
-  lucidBlocksSettingsAndAccessibility: ['full screen', 'controls', 'display'],
-  lucidBlocksUpdatesAndPatchNotes: ['update', 'patch', 'fix'],
-  lucidBlocksCrashFixAndTroubleshooting: ['crash', 'vulkan', 'troubleshooting', 'full screen', 'controls', 'gameplay'],
+  lucidBlocksBeginnerGuide: ['release date', 'netflix', 'part 5', 'berlin', 'official status'],
+  lucidBlocksApotheosisCrafting: ['trailer', 'teaser', 'announcement', 'part 5 volume 2', 'berlin clips'],
+  lucidBlocksToolsAndWeapons: ['cast', 'professor', 'tokyo', 'lisbon', 'berlin', 'alicia sierra'],
+  lucidBlocksStorageAndInventory: ['plot', 'bank of spain', 'rafael', 'gold', 'canon ending', 'sequel theories'],
+  lucidBlocksQualiaAndBaseBuilding: ['episodes', 'part 1', 'part 2', 'part 3', 'part 4', 'part 5'],
+  lucidBlocksWorldRegions: ['watch order', 'phenomenon', 'from tokyo to berlin', 'documentary', 'spin-off'],
+  lucidBlocksCreaturesAndEnemies: ['confirmed', 'coming or not', 'happening', 'possible', 'renewal status'],
+  lucidBlocksMobilityGear: ['news', 'update', 'announcement', 'leaks', 'shooting', 'latest'],
+  lucidBlocksFarmingAndGrowth: ['release', 'launch date', 'ott', 'india', 'pakistan', 'hindi'],
+  lucidBlocksBestEarlyUnlocks: ['trailer release date', 'official trailer', 'concept trailer', 'trailer hindi'],
+  lucidBlocksAchievementTracker: ['characters', 'actors', 'star cast', 'cast names', 'cast photos'],
+  lucidBlocksSingleplayerAndPlatformFAQ: ['faq', 'season 6', 'netflix status', 'spin-off', 'berlin universe'],
+  lucidBlocksSteamDeckAndController: ['teaser trailer', 'breakdown', 'official clips', 'video guide'],
+  lucidBlocksSettingsAndAccessibility: ['guide', 'explained', 'what we know', 'timeline', 'franchise'],
+  lucidBlocksUpdatesAndPatchNotes: ['latest updates', 'official announcement', '2026', 'release rumors', 'news'],
+  lucidBlocksCrashFixAndTroubleshooting: ['debunking', 'rumor check', 'fact check', 'official source', 'verification'],
 }
 
-const FILLER_WORDS = ['lucid', 'blocks', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
+const FILLER_WORDS = ['money', 'heist', 'season', '6', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
 
 function normalize(text: string): string {
   return text
@@ -77,9 +77,9 @@ function matchScore(queryText: string, article: ArticleWithType, extraKeywords?:
 
   let score = 0
 
-  // Exact phrase match in title (stripped of "Lucid Blocks")
-  const strippedQuery = normalizedQuery.replace(/lucid blocks?\s*/g, '').trim()
-  const strippedTitle = normalizedTitle.replace(/lucid blocks?\s*/g, '').trim()
+  // Exact phrase match in title (stripped of game title words)
+  const strippedQuery = normalizedQuery.replace(/money heist season 6\s*/g, '').trim()
+  const strippedTitle = normalizedTitle.replace(/money heist season 6\s*/g, '').trim()
   if (strippedQuery.length > 3 && strippedTitle.includes(strippedQuery)) {
     score += 100
   }
