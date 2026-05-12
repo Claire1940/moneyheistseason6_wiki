@@ -57,18 +57,9 @@ function LinkedTitle({
   className?: string;
   locale: string;
 }) {
-  if (linkData) {
-    const href = locale === "en" ? linkData.url : `/${locale}${linkData.url}`;
-    return (
-      <Link
-        href={href}
-        className={`${className || ""} hover:text-[hsl(var(--nav-theme-light))] hover:underline decoration-[hsl(var(--nav-theme-light))/0.4] underline-offset-4 transition-colors`}
-        title={linkData.title}
-      >
-        {children}
-      </Link>
-    );
-  }
+  void linkData;
+  void className;
+  void locale;
   return <>{children}</>;
 }
 
@@ -239,7 +230,7 @@ export default function HomePageClient({
             {/* CTA Buttons */}
             <div className="mb-10 flex flex-col justify-center gap-3 sm:flex-row md:mb-12 md:gap-4">
               <button
-                onClick={() => scrollToSection("beginner-guide")}
+                onClick={() => scrollToSection("money-heist-season-6-release-date")}
                 className="inline-flex items-center justify-center gap-2 px-6 py-3.5 md:px-8 md:py-4
                            bg-[hsl(var(--nav-theme))] hover:bg-[hsl(var(--nav-theme)/0.9)]
                            text-white rounded-lg font-semibold text-base md:text-lg transition-colors"
@@ -268,6 +259,29 @@ export default function HomePageClient({
         </div>
       </section>
 
+      {/* 广告位 2: 首屏内容之后再加载广告 */}
+      <NativeBannerAd adKey={process.env.NEXT_PUBLIC_AD_NATIVE_BANNER || ""} />
+
+      {/* Video Section */}
+      <section className="px-4 py-10 md:py-12">
+        <div className="scroll-reveal container mx-auto max-w-4xl">
+          <div className="relative overflow-hidden rounded-2xl">
+              <VideoFeature
+              videoId="TFJwUwnShnA"
+              title="Money Heist Part 5 Vol. 2 Teaser - Netflix"
+              posterImage="/images/hero.webp"
+            />
+          </div>
+        </div>
+      </section>
+
+      {/* Latest Updates Section */}
+      <LatestGuidesAccordion
+        articles={latestArticles}
+        locale={locale}
+        max={12}
+      />
+
       {/* Tools Grid - 16 Navigation Cards */}
       <section className="px-4 py-14 md:py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-4xl">
@@ -285,24 +299,23 @@ export default function HomePageClient({
 
           <div className="grid grid-cols-2 gap-3 md:grid-cols-3 md:gap-4 lg:grid-cols-4">
             {t.tools.cards.map((card: any, index: number) => {
-              // 映射卡片索引到 section ID
               const sectionIds = [
-                "beginner-guide",
-                "apotheosis-crafting",
-                "tools-weapons",
-                "storage-inventory",
-                "qualia-base-building",
-                "world-regions",
-                "creatures-enemies",
-                "mobility-gear",
-                "farming-growth",
-                "best-early-unlocks",
-                "achievement-tracker",
-                "singleplayer-faq",
-                "steam-deck-controller",
-                "settings-accessibility",
-                "updates-patch-notes",
-                "crash-fix",
+                "money-heist-season-6-release-date",
+                "money-heist-season-6-trailer",
+                "money-heist-season-6-cast",
+                "money-heist-season-6-plot",
+                "money-heist-season-6-episodes",
+                "money-heist-season-6-watch-order",
+                "money-heist-season-6-spin-offs",
+                "money-heist-season-6-where-to-watch",
+                "money-heist-season-6-fact-check",
+                "money-heist-season-6-crew-dynamics",
+                "money-heist-season-6-heist-locations",
+                "money-heist-season-6-character-faq",
+                "money-heist-season-6-platform-guide",
+                "money-heist-season-6-viewing-settings",
+                "money-heist-season-6-updates-timeline",
+                "money-heist-season-6-search-help",
               ];
               const sectionId = sectionIds[index];
 
@@ -341,29 +354,6 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* 广告位 2: 首屏内容之后再加载广告 */}
-      <NativeBannerAd adKey={process.env.NEXT_PUBLIC_AD_NATIVE_BANNER || ""} />
-
-      {/* Video Section */}
-      <section className="px-4 py-10 md:py-12">
-        <div className="scroll-reveal container mx-auto max-w-4xl">
-          <div className="relative overflow-hidden rounded-2xl">
-              <VideoFeature
-              videoId="TFJwUwnShnA"
-              title="Money Heist Part 5 Vol. 2 Teaser - Netflix"
-              posterImage="/images/hero.webp"
-            />
-          </div>
-        </div>
-      </section>
-
-      {/* Latest Updates Section */}
-      <LatestGuidesAccordion
-        articles={latestArticles}
-        locale={locale}
-        max={12}
-      />
-
       {/* 广告位 3: 移动端优先使用方形，桌面端保留横幅 */}
       <AdBanner
         type="banner-300x250"
@@ -377,7 +367,7 @@ export default function HomePageClient({
       />
 
       {/* Module 1: Beginner Guide */}
-      <section id="beginner-guide" className="scroll-mt-24 px-4 py-14 md:py-20">
+      <section id="money-heist-season-6-release-date" className="scroll-mt-24 px-4 py-14 md:py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-8 md:mb-12 scroll-reveal">
             <h2 className="text-3xl md:text-5xl font-bold mb-3 md:mb-4">
@@ -462,7 +452,7 @@ export default function HomePageClient({
 
       {/* Module 2: Apotheosis Crafting */}
       <section
-        id="apotheosis-crafting"
+        id="money-heist-season-6-trailer"
         className="scroll-mt-24 px-4 py-20 bg-white/[0.02]"
       >
         <div className="container mx-auto max-w-5xl">
@@ -522,7 +512,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 3: Tools and Weapons */}
-      <section id="tools-weapons" className="scroll-mt-24 px-4 py-20">
+      <section id="money-heist-season-6-cast" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
@@ -574,7 +564,7 @@ export default function HomePageClient({
 
       {/* Module 4: Storage and Inventory */}
       <section
-        id="storage-inventory"
+        id="money-heist-season-6-plot"
         className="scroll-mt-24 px-4 py-20 bg-white/[0.02]"
       >
         <div className="container mx-auto max-w-5xl">
@@ -643,7 +633,7 @@ export default function HomePageClient({
 
       {/* Module 5: Qualia and Base Building */}
       <section
-        id="qualia-base-building"
+        id="money-heist-season-6-episodes"
         className="scroll-mt-24 px-4 py-20 bg-white/[0.02]"
       >
         <div className="container mx-auto max-w-5xl">
@@ -703,7 +693,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 6: World Regions */}
-      <section id="world-regions" className="scroll-mt-24 px-4 py-20">
+      <section id="money-heist-season-6-watch-order" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
@@ -755,7 +745,7 @@ export default function HomePageClient({
 
       {/* Module 7: Creatures and Enemies */}
       <section
-        id="creatures-enemies"
+        id="money-heist-season-6-spin-offs"
         className="scroll-mt-24 px-4 py-20 bg-white/[0.02]"
       >
         <div className="container mx-auto max-w-5xl">
@@ -809,7 +799,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 8: Mobility Gear */}
-      <section id="mobility-gear" className="scroll-mt-24 px-4 py-20">
+      <section id="money-heist-season-6-where-to-watch" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
@@ -882,7 +872,7 @@ export default function HomePageClient({
       )}
 
       {/* Module 9: Farming and Growth */}
-      <section id="farming-growth" className="scroll-mt-24 px-4 py-20">
+      <section id="money-heist-season-6-fact-check" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
@@ -944,7 +934,7 @@ export default function HomePageClient({
 
       {/* Module 10: Best Early Unlocks */}
       <section
-        id="best-early-unlocks"
+        id="money-heist-season-6-crew-dynamics"
         className="scroll-mt-24 px-4 py-20 bg-white/[0.02]"
       >
         <div className="container mx-auto max-w-5xl">
@@ -999,7 +989,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 11: Achievement Tracker */}
-      <section id="achievement-tracker" className="scroll-mt-24 px-4 py-20">
+      <section id="money-heist-season-6-heist-locations" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
@@ -1060,7 +1050,7 @@ export default function HomePageClient({
 
       {/* Module 12: Singleplayer FAQ */}
       <section
-        id="singleplayer-faq"
+        id="money-heist-season-6-character-faq"
         className="scroll-mt-24 px-4 py-20 bg-white/[0.02]"
       >
         <div className="container mx-auto max-w-5xl">
@@ -1110,7 +1100,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 13: Steam Deck and Controller */}
-      <section id="steam-deck-controller" className="scroll-mt-24 px-4 py-20">
+      <section id="money-heist-season-6-platform-guide" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <div className="flex items-center justify-center gap-3 mb-4">
@@ -1160,7 +1150,7 @@ export default function HomePageClient({
 
       {/* Module 14: Settings and Accessibility */}
       <section
-        id="settings-accessibility"
+        id="money-heist-season-6-viewing-settings"
         className="scroll-mt-24 px-4 py-20 bg-white/[0.02]"
       >
         <div className="container mx-auto max-w-5xl">
@@ -1213,7 +1203,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 15: Updates and Patch Notes */}
-      <section id="updates-patch-notes" className="scroll-mt-24 px-4 py-20">
+      <section id="money-heist-season-6-updates-timeline" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
@@ -1265,7 +1255,7 @@ export default function HomePageClient({
 
       {/* Module 16: Crash Fix and Troubleshooting */}
       <section
-        id="crash-fix"
+        id="money-heist-season-6-search-help"
         className="scroll-mt-24 px-4 py-20 bg-white/[0.02]"
       >
         <div className="container mx-auto max-w-5xl">
