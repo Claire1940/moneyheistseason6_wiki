@@ -38,6 +38,23 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Clock: LucideIcons.Clock,
   X: LucideIcons.X,
 
+  // Money Heist Season 6 主题图标
+  CalendarClock: LucideIcons.CalendarClock,
+  Clapperboard: LucideIcons.Clapperboard,
+  ScrollText: LucideIcons.ScrollText,
+  ListOrdered: LucideIcons.ListOrdered,
+  Route: LucideIcons.Route,
+  Film: LucideIcons.Film,
+  Tv: LucideIcons.Tv,
+  ShieldCheck: LucideIcons.ShieldCheck,
+  Swords: LucideIcons.Swords,
+  MapPinned: LucideIcons.MapPinned,
+  MessageSquare: LucideIcons.MessageSquare,
+  MonitorPlay: LucideIcons.MonitorPlay,
+  Settings2: LucideIcons.Settings2,
+  History: LucideIcons.History,
+  LifeBuoy: LucideIcons.LifeBuoy,
+
   // 默认回退图标
   HelpCircle: LucideIcons.HelpCircle,
 }
